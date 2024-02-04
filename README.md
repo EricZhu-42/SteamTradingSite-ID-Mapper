@@ -1,4 +1,4 @@
-# SteamTradingSite-ID-Mapper
+<h1 align="center">SteamTradingSite ID Mapper</h1>
 
 This repository provides an ID mapping for DOTA2 & CS2 tradeable items between the Steam Market and major trading platforms. 
 
