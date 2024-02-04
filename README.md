@@ -24,3 +24,18 @@ Please note that we cannot guarantee the completeness, accuracy, or timeliness o
 | **IGXE** | 27453 (71.45%) | 20806 (99.56%) |
 | **C5** | 30535 (91.18%) | 20862 (99.83%) |
 | **UUYP** | N/A | 20490 (98.05%) |
+
+## Usage
+
+### Steam
+
+- **Key:** `market_hash_name` of the item.
+- **Values:**
+  - `en_name`: the display name of the item in English. Please note that this may not always be the same as `market_hash_name`. For more information, please refer to [this discussion](https://www.reddit.com/r/SteamBot/comments/457zpl/question_difference_between_market_name_and/).
+  - `cn_name`: the display name of the item in Chinese.
+  - `name_id`: the `item_nameid` of the item, which is used in APIs such as [itemordershistogram](https://steamcommunity.com/market/itemordershistogram?country=US&language=english&currency=1&item_nameid=176096390&norender=1).
+
+### Third-party Platforms
+
+- **Key:** `market_hash_name` of the item.
+- **Value:** the ID of the item on the respective platform. If the item is currently not found, the value is `-1`.
