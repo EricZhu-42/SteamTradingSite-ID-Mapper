@@ -9,7 +9,7 @@ Currently, we support the following platforms:
 - [BUFF](https://buff.163.com/)
 - [IGXE](https://www.igxe.cn/)
 - [C5](https://www.c5game.com/)
-- [UUYP](https://www.youpin898.com/)
+- [UUYP](https://www.youpin898.com/) (youpin898.com)
 
 Please note that we cannot guarantee the completeness, accuracy, or timeliness of the mapping as new items are continuously added to the games. Contributions are always welcome!
 
