@@ -19,7 +19,7 @@ Please note that we cannot guarantee the completeness, accuracy, or timeliness o
 
 |  | **570 (DOTA2)** | **730 (CSGO)** |
 | :------: | :-------------: | :-----------: |
-| **Steam Market** | 43842 | 24391 |
+| **Steam Market** | 43848 | 24448 |
 | **BUFF** | 43550 (99.33%) | 24391 (100.00%) |
 | **IGXE** | 28768 (65.62%) | 23506 (96.37%) |
 | **C5** | 38882 (88.69%) | 24234 (99.36%) |
