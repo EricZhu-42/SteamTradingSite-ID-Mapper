@@ -22,8 +22,8 @@ Please note that we cannot guarantee the completeness, accuracy, or timeliness o
 | **Steam Market** | 44512 | 24580 |
 | **BUFF** | 44046 (98.95%) | 24480 (99.59%) |
 | **IGXE** | 28768 (64.63%) | 23506 (95.63%) |
-| **C5** | 39205 (88.08%) | 24389 (99.22%) |
-| **UUYP** | N/A | 24328 (98.97%) |
+| **C5** | 39205 (88.08%) | 24475 (99.57%) |
+| **UUYP** | N/A | 24428 (99.38%) |
 
 ## Usage
 
