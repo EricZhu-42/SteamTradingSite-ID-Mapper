@@ -19,11 +19,11 @@ Please note that we cannot guarantee the completeness, accuracy, or timeliness o
 
 |  | **570 (DOTA2)** | **730 (CSGO)** |
 | :------: | :-------------: | :-----------: |
-| **Steam Market** | 44727 | 25322 |
-| **BUFF** | 44245 (98.92%) | 25156 (99.34%) |
-| **IGXE** | 28768 (64.32%) | 23506 (92.83%) |
-| **C5** | 39290 (87.84%) | 24985 (98.67%) |
-| **UUYP** | N/A | 25015 (98.79%) |
+| **Steam Market** | 44806 | 25461 |
+| **BUFF** | 44399 (99.09%) | 25457 (99.98%) |
+| **IGXE** | 28768 (64.21%) | 23506 (92.32%) |
+| **C5** | 39424 (87.99%) | 25230 (99.09%) |
+| **UUYP** | N/A | 25301 (99.37%) |
 
 ## Usage
 
@@ -39,6 +39,7 @@ Please note that we cannot guarantee the completeness, accuracy, or timeliness o
 
 - **Key:** `market_hash_name` of the item.
 - **Value:** the ID of the item on the respective platform. If the item is currently not found, the value is `-1`.
+
 
 
 
