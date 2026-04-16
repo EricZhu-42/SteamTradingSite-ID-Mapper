@@ -3479,6 +3479,11 @@
     "en_name": "AWP | Queen's Gambit (Battle-Scarred)",
     "name_id": 176611893
   },
+  "AWP | Queen's Gambit (Factory New)": {
+    "cn_name": "AWP | Queen's Gambit (崭新出厂)",
+    "en_name": "AWP | Queen's Gambit (Factory New)",
+    "name_id": 176612355
+  },
   "AWP | Queen's Gambit (Field-Tested)": {
     "cn_name": "AWP | Queen's Gambit (久经沙场)",
     "en_name": "AWP | Queen's Gambit (Field-Tested)",
@@ -12714,6 +12719,11 @@
     "en_name": "Glock-18 | Fully Tuned (Battle-Scarred)",
     "name_id": 176611964
   },
+  "Glock-18 | Fully Tuned (Factory New)": {
+    "cn_name": "格洛克18型 | Fully Tuned (崭新出厂)",
+    "en_name": "Glock-18 | Fully Tuned (Factory New)",
+    "name_id": 176612156
+  },
   "Glock-18 | Fully Tuned (Field-Tested)": {
     "cn_name": "格洛克18型 | Fully Tuned (久经沙场)",
     "en_name": "Glock-18 | Fully Tuned (Field-Tested)",
@@ -14043,6 +14053,11 @@
     "cn_name": "M249 | Bock Blocks (战痕累累)",
     "en_name": "M249 | Bock Blocks (Battle-Scarred)",
     "name_id": 176612097
+  },
+  "M249 | Bock Blocks (Factory New)": {
+    "cn_name": "M249 | Bock Blocks (崭新出厂)",
+    "en_name": "M249 | Bock Blocks (Factory New)",
+    "name_id": 176612110
   },
   "M249 | Bock Blocks (Field-Tested)": {
     "cn_name": "M249 | Bock Blocks (久经沙场)",
@@ -32504,6 +32519,11 @@
     "en_name": "Sawed-Off | Fusion (Battle-Scarred)",
     "name_id": 176612124
   },
+  "Sawed-Off | Fusion (Factory New)": {
+    "cn_name": "截短霰弹枪 | Fusion (崭新出厂)",
+    "en_name": "Sawed-Off | Fusion (Factory New)",
+    "name_id": 176612152
+  },
   "Sawed-Off | Fusion (Field-Tested)": {
     "cn_name": "截短霰弹枪 | Fusion (久经沙场)",
     "en_name": "Sawed-Off | Fusion (Field-Tested)",
@@ -44954,6 +44974,11 @@
     "en_name": "Souvenir Charm | Austin 2025 Highlight | Where Are You Buddy?",
     "name_id": 176537000
   },
+  "Souvenir Charm | Austin 2025 Highlight | Wont go quietly": {
+    "cn_name": "挂件（纪念品） | 2025年奥斯汀锦标赛高光时刻 | 一切都结束了",
+    "en_name": "Souvenir Charm | Austin 2025 Highlight | Wont go quietly",
+    "name_id": 176613638
+  },
   "Souvenir Charm | Austin 2025 Highlight | YEKINDAR Double Kill": {
     "cn_name": "挂件（纪念品） | 2025年奥斯汀锦标赛高光时刻 | 双杀",
     "en_name": "Souvenir Charm | Austin 2025 Highlight | YEKINDAR Double Kill",
@@ -55799,6 +55824,11 @@
     "en_name": "StatTrak™ AWP | Queen's Gambit (Battle-Scarred)",
     "name_id": 176612025
   },
+  "StatTrak™ AWP | Queen's Gambit (Factory New)": {
+    "cn_name": "AWP（StatTrak™） | Queen's Gambit (崭新出厂)",
+    "en_name": "StatTrak™ AWP | Queen's Gambit (Factory New)",
+    "name_id": 176612833
+  },
   "StatTrak™ AWP | Queen's Gambit (Field-Tested)": {
     "cn_name": "AWP（StatTrak™） | Queen's Gambit (久经沙场)",
     "en_name": "StatTrak™ AWP | Queen's Gambit (Field-Tested)",
@@ -56538,6 +56568,11 @@
     "cn_name": "沙漠之鹰（StatTrak™） | Firebreathing (战痕累累)",
     "en_name": "StatTrak™ Desert Eagle | Firebreathing (Battle-Scarred)",
     "name_id": 176612089
+  },
+  "StatTrak™ Desert Eagle | Firebreathing (Factory New)": {
+    "cn_name": "沙漠之鹰（StatTrak™） | Firebreathing (崭新出厂)",
+    "en_name": "StatTrak™ Desert Eagle | Firebreathing (Factory New)",
+    "name_id": 176612193
   },
   "StatTrak™ Desert Eagle | Firebreathing (Field-Tested)": {
     "cn_name": "沙漠之鹰（StatTrak™） | Firebreathing (久经沙场)",
@@ -57929,6 +57964,11 @@
     "cn_name": "FN57（StatTrak™） | 铜色星系 (略有磨损)",
     "name_id": 6821618
   },
+  "StatTrak™ Five-SeveN | Dark Polymer (Battle-Scarred)": {
+    "cn_name": "FN57（StatTrak™） | Dark Polymer (战痕累累)",
+    "en_name": "StatTrak™ Five-SeveN | Dark Polymer (Battle-Scarred)",
+    "name_id": 176612371
+  },
   "StatTrak™ Five-SeveN | Dark Polymer (Factory New)": {
     "cn_name": "FN57（StatTrak™） | Dark Polymer (崭新出厂)",
     "en_name": "StatTrak™ Five-SeveN | Dark Polymer (Factory New)",
@@ -57943,6 +57983,11 @@
     "cn_name": "FN57（StatTrak™） | Dark Polymer (略有磨损)",
     "en_name": "StatTrak™ Five-SeveN | Dark Polymer (Minimal Wear)",
     "name_id": 176612046
+  },
+  "StatTrak™ Five-SeveN | Dark Polymer (Well-Worn)": {
+    "cn_name": "FN57（StatTrak™） | Dark Polymer (破损不堪)",
+    "en_name": "StatTrak™ Five-SeveN | Dark Polymer (Well-Worn)",
+    "name_id": 176612130
   },
   "StatTrak™ Five-SeveN | Fairy Tale (Battle-Scarred)": {
     "en_name": "StatTrak™ Five-SeveN | Fairy Tale (Battle-Scarred)",
@@ -58874,6 +58919,11 @@
     "en_name": "StatTrak™ Galil AR | Galigator (Minimal Wear)",
     "name_id": 176612081
   },
+  "StatTrak™ Galil AR | Galigator (Well-Worn)": {
+    "cn_name": "加利尔AR（StatTrak™） | Galigator (破损不堪)",
+    "en_name": "StatTrak™ Galil AR | Galigator (Well-Worn)",
+    "name_id": 176612123
+  },
   "StatTrak™ Galil AR | Kami (Battle-Scarred)": {
     "en_name": "StatTrak™ Galil AR | Kami (Battle-Scarred)",
     "cn_name": "加利尔 AR（StatTrak™） | 神祗 (战痕累累)",
@@ -59258,6 +59308,11 @@
     "cn_name": "格洛克18型（StatTrak™） | Fully Tuned (战痕累累)",
     "en_name": "StatTrak™ Glock-18 | Fully Tuned (Battle-Scarred)",
     "name_id": 176612024
+  },
+  "StatTrak™ Glock-18 | Fully Tuned (Factory New)": {
+    "cn_name": "格洛克18型（StatTrak™） | Fully Tuned (崭新出厂)",
+    "en_name": "StatTrak™ Glock-18 | Fully Tuned (Factory New)",
+    "name_id": 176612389
   },
   "StatTrak™ Glock-18 | Fully Tuned (Field-Tested)": {
     "cn_name": "格洛克18型（StatTrak™） | Fully Tuned (久经沙场)",
@@ -59809,6 +59864,16 @@
     "cn_name": "M249（StatTrak™） | 阿兹特克 (破损不堪)",
     "name_id": 176092026
   },
+  "StatTrak™ M249 | Bock Blocks (Battle-Scarred)": {
+    "cn_name": "M249（StatTrak™） | Bock Blocks (战痕累累)",
+    "en_name": "StatTrak™ M249 | Bock Blocks (Battle-Scarred)",
+    "name_id": 176612133
+  },
+  "StatTrak™ M249 | Bock Blocks (Factory New)": {
+    "cn_name": "M249（StatTrak™） | Bock Blocks (崭新出厂)",
+    "en_name": "StatTrak™ M249 | Bock Blocks (Factory New)",
+    "name_id": 176612257
+  },
   "StatTrak™ M249 | Bock Blocks (Field-Tested)": {
     "cn_name": "M249（StatTrak™） | Bock Blocks (久经沙场)",
     "en_name": "StatTrak™ M249 | Bock Blocks (Field-Tested)",
@@ -60278,6 +60343,11 @@
     "en_name": "StatTrak™ M4A1-S | Decimator (Well-Worn)",
     "cn_name": "M4A1 消音型（StatTrak™） | 毁灭者 2000 (破损不堪)",
     "name_id": 175880422
+  },
+  "StatTrak™ M4A1-S | Electrum (Battle-Scarred)": {
+    "cn_name": "M4A1消音版（StatTrak™） | Electrum (战痕累累)",
+    "en_name": "StatTrak™ M4A1-S | Electrum (Battle-Scarred)",
+    "name_id": 176612113
   },
   "StatTrak™ M4A1-S | Electrum (Factory New)": {
     "cn_name": "M4A1消音版（StatTrak™） | Electrum (崭新出厂)",
@@ -62739,6 +62809,16 @@
     "cn_name": "MP7（StatTrak™） | 非洲部落 (破损不堪)",
     "name_id": 175880305
   },
+  "StatTrak™ MP7 | Amberline (Battle-Scarred)": {
+    "cn_name": "MP7（StatTrak™） | Amberline (战痕累累)",
+    "en_name": "StatTrak™ MP7 | Amberline (Battle-Scarred)",
+    "name_id": 176612274
+  },
+  "StatTrak™ MP7 | Amberline (Factory New)": {
+    "cn_name": "MP7（StatTrak™） | Amberline (崭新出厂)",
+    "en_name": "StatTrak™ MP7 | Amberline (Factory New)",
+    "name_id": 176612318
+  },
   "StatTrak™ MP7 | Amberline (Field-Tested)": {
     "cn_name": "MP7（StatTrak™） | Amberline (久经沙场)",
     "en_name": "StatTrak™ MP7 | Amberline (Field-Tested)",
@@ -62748,6 +62828,11 @@
     "cn_name": "MP7（StatTrak™） | Amberline (略有磨损)",
     "en_name": "StatTrak™ MP7 | Amberline (Minimal Wear)",
     "name_id": 176612083
+  },
+  "StatTrak™ MP7 | Amberline (Well-Worn)": {
+    "cn_name": "MP7（StatTrak™） | Amberline (破损不堪)",
+    "en_name": "StatTrak™ MP7 | Amberline (Well-Worn)",
+    "name_id": 176612324
   },
   "StatTrak™ MP7 | Armor Core (Battle-Scarred)": {
     "en_name": "StatTrak™ MP7 | Armor Core (Battle-Scarred)",
@@ -63519,6 +63604,16 @@
     "cn_name": "MP9（StatTrak™） | 星使 (破损不堪)",
     "name_id": 176288820
   },
+  "StatTrak™ MP9 | Urban Sovereign (Battle-Scarred)": {
+    "cn_name": "MP9（StatTrak™） | Urban Sovereign (战痕累累)",
+    "en_name": "StatTrak™ MP9 | Urban Sovereign (Battle-Scarred)",
+    "name_id": 176612381
+  },
+  "StatTrak™ MP9 | Urban Sovereign (Factory New)": {
+    "cn_name": "MP9（StatTrak™） | Urban Sovereign (崭新出厂)",
+    "en_name": "StatTrak™ MP9 | Urban Sovereign (Factory New)",
+    "name_id": 176612362
+  },
   "StatTrak™ MP9 | Urban Sovereign (Field-Tested)": {
     "cn_name": "MP9（StatTrak™） | Urban Sovereign (久经沙场)",
     "en_name": "StatTrak™ MP9 | Urban Sovereign (Field-Tested)",
@@ -63528,6 +63623,11 @@
     "cn_name": "MP9（StatTrak™） | Urban Sovereign (略有磨损)",
     "en_name": "StatTrak™ MP9 | Urban Sovereign (Minimal Wear)",
     "name_id": 176612019
+  },
+  "StatTrak™ MP9 | Urban Sovereign (Well-Worn)": {
+    "cn_name": "MP9（StatTrak™） | Urban Sovereign (破损不堪)",
+    "en_name": "StatTrak™ MP9 | Urban Sovereign (Well-Worn)",
+    "name_id": 176612159
   },
   "StatTrak™ Masterminds 2 Music Kit Box": {
     "cn_name": "StatTrak™ 决策大师2号音乐盒集",
@@ -65409,6 +65509,11 @@
     "en_name": "StatTrak™ P250 | Kintsugi (Battle-Scarred)",
     "name_id": 176612079
   },
+  "StatTrak™ P250 | Kintsugi (Factory New)": {
+    "cn_name": "P250（StatTrak™） | Kintsugi (崭新出厂)",
+    "en_name": "StatTrak™ P250 | Kintsugi (Factory New)",
+    "name_id": 176612354
+  },
   "StatTrak™ P250 | Kintsugi (Field-Tested)": {
     "cn_name": "P250（StatTrak™） | Kintsugi (久经沙场)",
     "en_name": "StatTrak™ P250 | Kintsugi (Field-Tested)",
@@ -65918,6 +66023,16 @@
     "en_name": "StatTrak™ P90 | Death by Kitty (Minimal Wear)",
     "cn_name": "P90（StatTrak™） | 喵之萌杀 (略有磨损)",
     "name_id": 1321901
+  },
+  "StatTrak™ P90 | Deathgaze (Battle-Scarred)": {
+    "cn_name": "P90（StatTrak™） | Deathgaze (战痕累累)",
+    "en_name": "StatTrak™ P90 | Deathgaze (Battle-Scarred)",
+    "name_id": 176612109
+  },
+  "StatTrak™ P90 | Deathgaze (Factory New)": {
+    "cn_name": "P90（StatTrak™） | Deathgaze (崭新出厂)",
+    "en_name": "StatTrak™ P90 | Deathgaze (Factory New)",
+    "name_id": 176612372
   },
   "StatTrak™ P90 | Deathgaze (Field-Tested)": {
     "cn_name": "P90（StatTrak™） | Deathgaze (久经沙场)",
@@ -66668,6 +66783,16 @@
     "cn_name": "PP-野牛（StatTrak™） | RMX (战痕累累)",
     "en_name": "StatTrak™ PP-Bizon | RMX (Battle-Scarred)",
     "name_id": 176612015
+  },
+  "StatTrak™ PP-Bizon | RMX (Factory New)": {
+    "cn_name": "PP-野牛（StatTrak™） | RMX (崭新出厂)",
+    "en_name": "StatTrak™ PP-Bizon | RMX (Factory New)",
+    "name_id": 176612358
+  },
+  "StatTrak™ PP-Bizon | RMX (Field-Tested)": {
+    "cn_name": "PP-野牛（StatTrak™） | RMX (久经沙场)",
+    "en_name": "StatTrak™ PP-Bizon | RMX (Field-Tested)",
+    "name_id": 176612148
   },
   "StatTrak™ PP-Bizon | RMX (Minimal Wear)": {
     "cn_name": "PP-野牛（StatTrak™） | RMX (略有磨损)",
@@ -69314,6 +69439,16 @@
     "cn_name": "UMP-45（StatTrak™） | 曝光 (破损不堪)",
     "name_id": 175917476
   },
+  "StatTrak™ UMP-45 | Fragment (Battle-Scarred)": {
+    "cn_name": "UMP-45（StatTrak™） | Fragment (战痕累累)",
+    "en_name": "StatTrak™ UMP-45 | Fragment (Battle-Scarred)",
+    "name_id": 176612145
+  },
+  "StatTrak™ UMP-45 | Fragment (Factory New)": {
+    "cn_name": "UMP-45（StatTrak™） | Fragment (崭新出厂)",
+    "en_name": "StatTrak™ UMP-45 | Fragment (Factory New)",
+    "name_id": 176612219
+  },
   "StatTrak™ UMP-45 | Fragment (Field-Tested)": {
     "cn_name": "UMP-45（StatTrak™） | Fragment (久经沙场)",
     "en_name": "StatTrak™ UMP-45 | Fragment (Field-Tested)",
@@ -69323,6 +69458,11 @@
     "cn_name": "UMP-45（StatTrak™） | Fragment (略有磨损)",
     "en_name": "StatTrak™ UMP-45 | Fragment (Minimal Wear)",
     "name_id": 176612054
+  },
+  "StatTrak™ UMP-45 | Fragment (Well-Worn)": {
+    "cn_name": "UMP-45（StatTrak™） | Fragment (破损不堪)",
+    "en_name": "StatTrak™ UMP-45 | Fragment (Well-Worn)",
+    "name_id": 176612137
   },
   "StatTrak™ UMP-45 | Gold Bismuth (Battle-Scarred)": {
     "en_name": "StatTrak™ UMP-45 | Gold Bismuth (Battle-Scarred)",
@@ -70148,6 +70288,11 @@
     "cn_name": "USP消音版（StatTrak™） | Silent Shot (战痕累累)",
     "en_name": "StatTrak™ USP-S | Silent Shot (Battle-Scarred)",
     "name_id": 176611978
+  },
+  "StatTrak™ USP-S | Silent Shot (Factory New)": {
+    "cn_name": "USP消音版（StatTrak™） | Silent Shot (崭新出厂)",
+    "en_name": "StatTrak™ USP-S | Silent Shot (Factory New)",
+    "name_id": 176612218
   },
   "StatTrak™ USP-S | Silent Shot (Field-Tested)": {
     "cn_name": "USP消音版（StatTrak™） | Silent Shot (久经沙场)",
@@ -71264,6 +71409,11 @@
     "en_name": "Sticker Slab | Adeptus Mechanicus 2",
     "name_id": 176590451
   },
+  "Sticker Slab | Adeptus Titanicus 1": {
+    "cn_name": "印花板 | 泰坦修会1",
+    "en_name": "Sticker Slab | Adeptus Titanicus 1",
+    "name_id": 176612956
+  },
   "Sticker Slab | Adeptus Titanicus 2": {
     "cn_name": "印花板 | 泰坦修会2",
     "en_name": "Sticker Slab | Adeptus Titanicus 2",
@@ -71379,6 +71529,11 @@
     "en_name": "Sticker Slab | Aleksib (Foil) | Berlin 2019",
     "name_id": 176582076
   },
+  "Sticker Slab | Aleksib (Foil) | Katowice 2019": {
+    "cn_name": "印花板 | Aleksib（闪亮）| 2019年卡托维兹锦标赛",
+    "en_name": "Sticker Slab | Aleksib (Foil) | Katowice 2019",
+    "name_id": 176613215
+  },
   "Sticker Slab | Aleksib (Glitter) | Antwerp 2022": {
     "cn_name": "印花板 | Aleksib（闪耀） | 2022年安特卫普锦标赛",
     "en_name": "Sticker Slab | Aleksib (Glitter) | Antwerp 2022",
@@ -71439,6 +71594,11 @@
     "en_name": "Sticker Slab | Aleksib (Gold) | Paris 2023",
     "name_id": 176582758
   },
+  "Sticker Slab | Aleksib (Gold) | Rio 2022": {
+    "cn_name": "印花板 | Aleksib（金色）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | Aleksib (Gold) | Rio 2022",
+    "name_id": 176612953
+  },
   "Sticker Slab | Aleksib (Gold) | Shanghai 2024": {
     "cn_name": "印花板 | Aleksib（金色）| 2024年上海锦标赛",
     "en_name": "Sticker Slab | Aleksib (Gold) | Shanghai 2024",
@@ -71448,6 +71608,11 @@
     "cn_name": "印花板 | Aleksib（金色，冠军）| 2024年哥本哈根锦标赛",
     "en_name": "Sticker Slab | Aleksib (Gold, Champion) | Copenhagen 2024",
     "name_id": 176567582
+  },
+  "Sticker Slab | Aleksib (Holo) | Antwerp 2022": {
+    "cn_name": "印花板 | Aleksib（全息） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | Aleksib (Holo) | Antwerp 2022",
+    "name_id": 176616486
   },
   "Sticker Slab | Aleksib (Holo) | Austin 2025": {
     "cn_name": "印花板 | Aleksib（全息）| 2025年奥斯汀锦标赛",
@@ -71829,6 +71994,16 @@
     "en_name": "Sticker Slab | Attacker (Foil) | Austin 2025",
     "name_id": 176571218
   },
+  "Sticker Slab | Attacker (Foil) | Berlin 2019": {
+    "cn_name": "印花板 | Attacker（闪亮）| 2019年柏林锦标赛",
+    "en_name": "Sticker Slab | Attacker (Foil) | Berlin 2019",
+    "name_id": 176616263
+  },
+  "Sticker Slab | Attacker (Foil) | Katowice 2019": {
+    "cn_name": "印花板 | Attacker（闪亮）| 2019年卡托维兹锦标赛",
+    "en_name": "Sticker Slab | Attacker (Foil) | Katowice 2019",
+    "name_id": 176616146
+  },
   "Sticker Slab | Attacker (Gold) | Austin 2025": {
     "cn_name": "印花板 | Attacker（金色）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | Attacker (Gold) | Austin 2025",
@@ -71948,6 +72123,11 @@
     "cn_name": "印花板 | Ax1Le（闪耀） | 2022年安特卫普锦标赛",
     "en_name": "Sticker Slab | Ax1Le (Glitter) | Antwerp 2022",
     "name_id": 176588540
+  },
+  "Sticker Slab | Ax1Le (Glitter) | Copenhagen 2024": {
+    "cn_name": "印花板 | Ax1Le（闪耀）| 2024年哥本哈根锦标赛",
+    "en_name": "Sticker Slab | Ax1Le (Glitter) | Copenhagen 2024",
+    "name_id": 176615991
   },
   "Sticker Slab | Ax1Le (Gold) | Shanghai 2024": {
     "cn_name": "印花板 | Ax1Le（金色）| 2024年上海锦标赛",
@@ -72309,6 +72489,11 @@
     "en_name": "Sticker Slab | BUDA (Holo) | Rio 2022",
     "name_id": 176564258
   },
+  "Sticker Slab | BUDA | Rio 2022": {
+    "cn_name": "印花板 | BUDA | 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | BUDA | Rio 2022",
+    "name_id": 176612876
+  },
   "Sticker Slab | Baaa-ckstabber!": {
     "cn_name": "印花板 | 背刺咩〜羊！",
     "en_name": "Sticker Slab | Baaa-ckstabber!",
@@ -72559,6 +72744,11 @@
     "en_name": "Sticker Slab | Black Dog",
     "name_id": 176559539
   },
+  "Sticker Slab | Black Jaggyfish": {
+    "cn_name": "印花板 | 带刺鱼（黑色）",
+    "en_name": "Sticker Slab | Black Jaggyfish",
+    "name_id": 176613900
+  },
   "Sticker Slab | Black Legion 1": {
     "cn_name": "印花板 | 黑色军团1",
     "en_name": "Sticker Slab | Black Legion 1",
@@ -72623,6 +72813,11 @@
     "cn_name": "印花板 | 蓝钻（闪耀）",
     "en_name": "Sticker Slab | Blue Gem (Glitter)",
     "name_id": 176559525
+  },
+  "Sticker Slab | Blue Gnar": {
+    "cn_name": "印花板 | 战吼（蓝色）",
+    "en_name": "Sticker Slab | Blue Gnar",
+    "name_id": 176615360
   },
   "Sticker Slab | Blue Lethal": {
     "cn_name": "印花板 | 致命（蓝色）",
@@ -72814,6 +73009,11 @@
     "en_name": "Sticker Slab | Boombl4 (Foil) | Katowice 2019",
     "name_id": 176562331
   },
+  "Sticker Slab | Boombl4 (Glitter) | Copenhagen 2024": {
+    "cn_name": "印花板 | Boombl4（闪耀）| 2024年哥本哈根锦标赛",
+    "en_name": "Sticker Slab | Boombl4 (Glitter) | Copenhagen 2024",
+    "name_id": 176615403
+  },
   "Sticker Slab | Boombl4 (Glitter) | Shanghai 2024": {
     "cn_name": "印花板 | Boombl4（闪耀）| 2024年上海锦标赛",
     "en_name": "Sticker Slab | Boombl4 (Glitter) | Shanghai 2024",
@@ -72859,10 +73059,20 @@
     "en_name": "Sticker Slab | Boombl4 (Holo) | Antwerp 2022",
     "name_id": 176562441
   },
+  "Sticker Slab | Boombl4 (Holo) | Austin 2025": {
+    "cn_name": "印花板 | Boombl4（全息）| 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | Boombl4 (Holo) | Austin 2025",
+    "name_id": 176615602
+  },
   "Sticker Slab | Boombl4 (Holo) | Copenhagen 2024": {
     "cn_name": "印花板 | Boombl4（全息）| 2024年哥本哈根锦标赛",
     "en_name": "Sticker Slab | Boombl4 (Holo) | Copenhagen 2024",
     "name_id": 176587165
+  },
+  "Sticker Slab | Boombl4 (Holo) | Shanghai 2024": {
+    "cn_name": "印花板 | Boombl4（全息）| 2024年上海锦标赛",
+    "en_name": "Sticker Slab | Boombl4 (Holo) | Shanghai 2024",
+    "name_id": 176614048
   },
   "Sticker Slab | Boombl4 (Holo) | Stockholm 2021": {
     "cn_name": "印花板 | Boombl4 （全息） | 2021年斯德哥尔摩锦标赛",
@@ -72934,6 +73144,11 @@
     "en_name": "Sticker Slab | Bossy Burger",
     "name_id": 176590761
   },
+  "Sticker Slab | Bravado Gaming | DreamHack 2014": {
+    "cn_name": "印花板 | Bravado Gaming | 2014年 DreamHack 锦标赛",
+    "en_name": "Sticker Slab | Bravado Gaming | DreamHack 2014",
+    "name_id": 176615561
+  },
   "Sticker Slab | Brehze (Gold) | Katowice 2019": {
     "cn_name": "印花板 | Brehze（金色）| 2019年卡托维兹锦标赛",
     "en_name": "Sticker Slab | Brehze (Gold) | Katowice 2019",
@@ -73004,6 +73219,11 @@
     "en_name": "Sticker Slab | Brollan (Gold) | Paris 2023",
     "name_id": 176570500
   },
+  "Sticker Slab | Brollan (Gold) | Rio 2022": {
+    "cn_name": "印花板 | Brollan（金色）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | Brollan (Gold) | Rio 2022",
+    "name_id": 176614290
+  },
   "Sticker Slab | Brollan (Gold) | Shanghai 2024": {
     "cn_name": "印花板 | Brollan（金色）| 2024年上海锦标赛",
     "en_name": "Sticker Slab | Brollan (Gold) | Shanghai 2024",
@@ -73028,6 +73248,11 @@
     "cn_name": "印花板 | Brollan（全息）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | Brollan (Holo) | Paris 2023",
     "name_id": 176569681
+  },
+  "Sticker Slab | Brollan (Holo) | Rio 2022": {
+    "cn_name": "印花板 | Brollan（全息）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | Brollan (Holo) | Rio 2022",
+    "name_id": 176613836
   },
   "Sticker Slab | Brollan (Holo) | Shanghai 2024": {
     "cn_name": "印花板 | Brollan（全息）| 2024年上海锦标赛",
@@ -73108,6 +73333,11 @@
     "cn_name": "印花板 | 烧光他们",
     "en_name": "Sticker Slab | Burn Them All",
     "name_id": 176586665
+  },
+  "Sticker Slab | Buzz (Foil) | Austin 2025": {
+    "cn_name": "印花板 | Buzz（闪亮）| 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | Buzz (Foil) | Austin 2025",
+    "name_id": 176613680
   },
   "Sticker Slab | Buzz (Gold) | Austin 2025": {
     "cn_name": "印花板 | Buzz（金色）| 2025年奥斯汀锦标赛",
@@ -73218,6 +73448,11 @@
     "cn_name": "印花板 | 给个闪 TT",
     "en_name": "Sticker Slab | Call Your Flashes",
     "name_id": 176562229
+  },
+  "Sticker Slab | Calyx (Gold) | Antwerp 2022": {
+    "cn_name": "印花板 | Calyx（金色） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | Calyx (Gold) | Antwerp 2022",
+    "name_id": 176616853
   },
   "Sticker Slab | Calyx (Gold) | London 2018": {
     "cn_name": "印花板 | Calyx（金色）| 2018年伦敦锦标赛",
@@ -74074,6 +74309,11 @@
     "en_name": "Sticker Slab | DeadFox (Foil) | Berlin 2019",
     "name_id": 176587414
   },
+  "Sticker Slab | DeadFox (Foil) | Katowice 2019": {
+    "cn_name": "印花板 | DeadFox（闪亮）| 2019年卡托维兹锦标赛",
+    "en_name": "Sticker Slab | DeadFox (Foil) | Katowice 2019",
+    "name_id": 176614147
+  },
   "Sticker Slab | DeadFox (Gold) | Berlin 2019": {
     "cn_name": "印花板 | DeadFox（金色）| 2019年柏林锦标赛",
     "en_name": "Sticker Slab | DeadFox (Gold) | Berlin 2019",
@@ -74094,6 +74334,11 @@
     "en_name": "Sticker Slab | Death Guard 1",
     "name_id": 176587118
   },
+  "Sticker Slab | Death Guard 2": {
+    "cn_name": "印花板 | 死亡守卫2",
+    "en_name": "Sticker Slab | Death Guard 2",
+    "name_id": 176615579
+  },
   "Sticker Slab | Defuse It (Holo)": {
     "cn_name": "印花板 | 拆了它（全息）",
     "en_name": "Sticker Slab | Defuse It (Holo)",
@@ -74113,6 +74358,11 @@
     "cn_name": "印花板 | DemQQ（金色）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | DemQQ (Gold) | Paris 2023",
     "name_id": 176583049
+  },
+  "Sticker Slab | DemQQ (Holo) | Paris 2023": {
+    "cn_name": "印花板 | DemQQ（全息）| 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | DemQQ (Holo) | Paris 2023",
+    "name_id": 176612370
   },
   "Sticker Slab | DemQQ | Paris 2023": {
     "cn_name": "印花板 | DemQQ | 2023年巴黎锦标赛",
@@ -74178,6 +74428,11 @@
     "cn_name": "印花板 | Dima（闪亮）| 2018年伦敦锦标赛",
     "en_name": "Sticker Slab | Dima (Foil) | London 2018",
     "name_id": 176569603
+  },
+  "Sticker Slab | Dima (Gold) | Katowice 2019": {
+    "cn_name": "印花板 | Dima（金色）| 2019年卡托维兹锦标赛",
+    "en_name": "Sticker Slab | Dima (Gold) | Katowice 2019",
+    "name_id": 176615242
   },
   "Sticker Slab | Dima | Katowice 2019": {
     "cn_name": "印花板 | Dima | 2019年卡托维兹锦标赛",
@@ -74584,6 +74839,11 @@
     "en_name": "Sticker Slab | ENCE | Paris 2023",
     "name_id": 176561938
   },
+  "Sticker Slab | ENCE | Rio 2022": {
+    "cn_name": "印花板 | ENCE | 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | ENCE | Rio 2022",
+    "name_id": 176614543
+  },
   "Sticker Slab | ENCE | Stockholm 2021": {
     "cn_name": "印花板 | ENCE | 2021年斯德哥尔摩锦标赛",
     "en_name": "Sticker Slab | ENCE | Stockholm 2021",
@@ -74739,6 +74999,11 @@
     "en_name": "Sticker Slab | Edward | Krakow 2017",
     "name_id": 176564452
   },
+  "Sticker Slab | Edward | London 2018": {
+    "cn_name": "印花板 | Edward | 2018年伦敦锦标赛",
+    "en_name": "Sticker Slab | Edward | London 2018",
+    "name_id": 176613947
+  },
   "Sticker Slab | EliGE (Embroidered) | Budapest 2025": {
     "cn_name": "印花板 | EliGE（刺绣）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | EliGE (Embroidered) | Budapest 2025",
@@ -74789,6 +75054,11 @@
     "en_name": "Sticker Slab | EliGE (Gold) | Budapest 2025",
     "name_id": 176563084
   },
+  "Sticker Slab | EliGE (Gold) | Copenhagen 2024": {
+    "cn_name": "印花板 | EliGE（金色）| 2024年哥本哈根锦标赛",
+    "en_name": "Sticker Slab | EliGE (Gold) | Copenhagen 2024",
+    "name_id": 176615860
+  },
   "Sticker Slab | EliGE (Gold) | Paris 2023": {
     "cn_name": "印花板 | EliGE（金色）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | EliGE (Gold) | Paris 2023",
@@ -74798,6 +75068,11 @@
     "cn_name": "印花板 | EliGE（金色）| 2024年上海锦标赛",
     "en_name": "Sticker Slab | EliGE (Gold) | Shanghai 2024",
     "name_id": 176563417
+  },
+  "Sticker Slab | EliGE (Holo) | Antwerp 2022": {
+    "cn_name": "印花板 | EliGE（全息） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | EliGE (Holo) | Antwerp 2022",
+    "name_id": 176615519
   },
   "Sticker Slab | EliGE (Holo) | Austin 2025": {
     "cn_name": "印花板 | EliGE（全息）| 2025年奥斯汀锦标赛",
@@ -74849,6 +75124,11 @@
     "en_name": "Sticker Slab | EliGE | Katowice 2019",
     "name_id": 176586186
   },
+  "Sticker Slab | EliGE | MLG Columbus 2016": {
+    "cn_name": "印花板 | EliGE | 2016年 MLG 哥伦布锦标赛",
+    "en_name": "Sticker Slab | EliGE | MLG Columbus 2016",
+    "name_id": 176615751
+  },
   "Sticker Slab | EliGE | Paris 2023": {
     "cn_name": "印花板 | EliGE | 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | EliGE | Paris 2023",
@@ -74858,6 +75138,11 @@
     "cn_name": "印花板 | EliGE | 2022年里约热内卢锦标赛",
     "en_name": "Sticker Slab | EliGE | Rio 2022",
     "name_id": 176563096
+  },
+  "Sticker Slab | EmiliaQAQ (Embroidered) | Budapest 2025": {
+    "cn_name": "印花板 | EmiliaQAQ（刺绣）| 2025年布达佩斯锦标赛",
+    "en_name": "Sticker Slab | EmiliaQAQ (Embroidered) | Budapest 2025",
+    "name_id": 176613159
   },
   "Sticker Slab | EmiliaQAQ (Foil) | Austin 2025": {
     "cn_name": "印花板 | EmiliaQAQ（闪亮）| 2025年奥斯汀锦标赛",
@@ -74883,6 +75168,11 @@
     "cn_name": "印花板 | EmiliaQAQ（金色）| 2024年哥本哈根锦标赛",
     "en_name": "Sticker Slab | EmiliaQAQ (Gold) | Copenhagen 2024",
     "name_id": 176565065
+  },
+  "Sticker Slab | EmiliaQAQ (Holo) | Austin 2025": {
+    "cn_name": "印花板 | EmiliaQAQ（全息）| 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | EmiliaQAQ (Holo) | Austin 2025",
+    "name_id": 176614328
   },
   "Sticker Slab | EmiliaQAQ (Holo) | Budapest 2025": {
     "cn_name": "印花板 | EmiliaQAQ（全息）| 2025年布达佩斯锦标赛",
@@ -74958,6 +75248,11 @@
     "cn_name": "印花板 | Epsilon eSports | 2014年科隆锦标赛",
     "en_name": "Sticker Slab | Epsilon eSports | Cologne 2014",
     "name_id": 176563966
+  },
+  "Sticker Slab | EspiranTo (Foil) | Berlin 2019": {
+    "cn_name": "印花板 | EspiranTo（闪亮）| 2019年柏林锦标赛",
+    "en_name": "Sticker Slab | EspiranTo (Foil) | Berlin 2019",
+    "name_id": 176614351
   },
   "Sticker Slab | Eternal Fire (Glitter) | Antwerp 2022": {
     "cn_name": "印花板 | Eternal Fire（闪耀）| 2022年安特卫普锦标赛",
@@ -75094,6 +75389,11 @@
     "en_name": "Sticker Slab | Ex3rcice (Foil) | Austin 2025",
     "name_id": 176610845
   },
+  "Sticker Slab | Ex3rcice (Glitter) | Shanghai 2024": {
+    "cn_name": "印花板 | Ex3rcice（闪耀）| 2024年上海锦标赛",
+    "en_name": "Sticker Slab | Ex3rcice (Glitter) | Shanghai 2024",
+    "name_id": 176612973
+  },
   "Sticker Slab | Ex3rcice (Gold) | Budapest 2025": {
     "cn_name": "印花板 | Ex3rcice（金色）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | Ex3rcice (Gold) | Budapest 2025",
@@ -75214,6 +75514,11 @@
     "en_name": "Sticker Slab | F1KU (Holo) | Austin 2025",
     "name_id": 176568751
   },
+  "Sticker Slab | F1KU (Holo) | Paris 2023": {
+    "cn_name": "印花板 | F1KU（全息）| 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | F1KU (Holo) | Paris 2023",
+    "name_id": 176615210
+  },
   "Sticker Slab | F1KU | Paris 2023": {
     "cn_name": "印花板 | F1KU | 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | F1KU | Paris 2023",
@@ -75234,15 +75539,35 @@
     "en_name": "Sticker Slab | FACEIT | London 2018",
     "name_id": 176569035
   },
+  "Sticker Slab | FASHR (Glitter) | Paris 2023": {
+    "cn_name": "印花板 | FASHR（闪耀）| 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | FASHR (Glitter) | Paris 2023",
+    "name_id": 176612974
+  },
   "Sticker Slab | FASHR (Holo) | Paris 2023": {
     "cn_name": "印花板 | FASHR（全息）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | FASHR (Holo) | Paris 2023",
     "name_id": 176567020
   },
+  "Sticker Slab | FASHR | Paris 2023": {
+    "cn_name": "印花板 | FASHR | 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | FASHR | Paris 2023",
+    "name_id": 176613170
+  },
   "Sticker Slab | FL1T (Champion) | Rio 2022": {
     "cn_name": "印花板 | FL1T（冠军）| 2022年里约热内卢锦标赛",
     "en_name": "Sticker Slab | FL1T (Champion) | Rio 2022",
     "name_id": 176590750
+  },
+  "Sticker Slab | FL1T (Glitter) | Antwerp 2022": {
+    "cn_name": "印花板 | FL1T（闪耀）| 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | FL1T (Glitter) | Antwerp 2022",
+    "name_id": 176612216
+  },
+  "Sticker Slab | FL1T (Glitter) | Rio 2022": {
+    "cn_name": "印花板 | FL1T（闪耀）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | FL1T (Glitter) | Rio 2022",
+    "name_id": 176612803
   },
   "Sticker Slab | FL1T (Glitter) | Shanghai 2024": {
     "cn_name": "印花板 | FL1T（闪耀）| 2024年上海锦标赛",
@@ -75554,6 +75879,11 @@
     "en_name": "Sticker Slab | FURIA | Stockholm 2021",
     "name_id": 176567395
   },
+  "Sticker Slab | FaNg (Gold) | Antwerp 2022": {
+    "cn_name": "印花板 | FaNg（金色） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | FaNg (Gold) | Antwerp 2022",
+    "name_id": 176616342
+  },
   "Sticker Slab | FaNg (Gold) | Paris 2023": {
     "cn_name": "印花板 | FaNg（金色）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | FaNg (Gold) | Paris 2023",
@@ -75803,6 +76133,11 @@
     "cn_name": "印花板 | FaZe Clan | 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | FaZe Clan | Budapest 2025",
     "name_id": 176559199
+  },
+  "Sticker Slab | FaZe Clan | Cologne 2016": {
+    "cn_name": "印花板 | FaZe Clan | 2016年科隆锦标赛",
+    "en_name": "Sticker Slab | FaZe Clan | Cologne 2016",
+    "name_id": 176615959
   },
   "Sticker Slab | FaZe Clan | Copenhagen 2024": {
     "cn_name": "印花板 | FaZe Clan | 2024年哥本哈根锦标赛",
@@ -76283,6 +76618,11 @@
     "cn_name": "印花板 | FlameZ（金色）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | FlameZ (Gold) | Paris 2023",
     "name_id": 176566627
+  },
+  "Sticker Slab | FlameZ (Gold) | Rio 2022": {
+    "cn_name": "印花板 | FlameZ（金色）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | FlameZ (Gold) | Rio 2022",
+    "name_id": 176616465
   },
   "Sticker Slab | FlameZ (Gold) | Shanghai 2024": {
     "cn_name": "印花板 | FlameZ（金色）| 2024年上海锦标赛",
@@ -77289,6 +77629,11 @@
     "en_name": "Sticker Slab | Gambit (Holo) | Krakow 2017",
     "name_id": 176564111
   },
+  "Sticker Slab | Gambit Esports (Foil) | London 2018": {
+    "cn_name": "印花板 | Gambit Esports（闪亮）| 2018年伦敦锦标赛",
+    "en_name": "Sticker Slab | Gambit Esports (Foil) | London 2018",
+    "name_id": 176612931
+  },
   "Sticker Slab | Gambit Esports (Holo) | London 2018": {
     "cn_name": "印花板 | Gambit Esports（全息）| 2018年伦敦锦标赛",
     "en_name": "Sticker Slab | Gambit Esports (Holo) | London 2018",
@@ -77774,6 +78119,11 @@
     "en_name": "Sticker Slab | Graviti | Budapest 2025",
     "name_id": 176586649
   },
+  "Sticker Slab | Graviti | Shanghai 2024": {
+    "cn_name": "印花板 | Graviti | 2024年上海锦标赛",
+    "en_name": "Sticker Slab | Graviti | Shanghai 2024",
+    "name_id": 176617225
+  },
   "Sticker Slab | Grayhound Gaming (Foil) | Berlin 2019": {
     "cn_name": "印花板 | Grayhound Gaming（闪亮）| 2019年柏林锦标赛",
     "en_name": "Sticker Slab | Grayhound Gaming (Foil) | Berlin 2019",
@@ -77864,6 +78214,11 @@
     "en_name": "Sticker Slab | Green Cyclawps",
     "name_id": 176569630
   },
+  "Sticker Slab | Green Gnar": {
+    "cn_name": "印花板 | 战吼（绿色）",
+    "en_name": "Sticker Slab | Green Gnar",
+    "name_id": 176614536
+  },
   "Sticker Slab | Green Lethal": {
     "cn_name": "印花板 | 致命（绿色）",
     "en_name": "Sticker Slab | Green Lethal",
@@ -77913,6 +78268,11 @@
     "cn_name": "印花板 | Grim（闪耀）| 2024年上海锦标赛",
     "en_name": "Sticker Slab | Grim (Glitter) | Shanghai 2024",
     "name_id": 176610645
+  },
+  "Sticker Slab | Grim (Gold) | Antwerp 2022": {
+    "cn_name": "印花板 | Grim（金色） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | Grim (Gold) | Antwerp 2022",
+    "name_id": 176617109
   },
   "Sticker Slab | Grim (Gold) | Austin 2025": {
     "cn_name": "印花板 | Grim（金色）| 2025年奥斯汀锦标赛",
@@ -77973,6 +78333,11 @@
     "cn_name": "印花板 | Grim | 2024年哥本哈根锦标赛",
     "en_name": "Sticker Slab | Grim | Copenhagen 2024",
     "name_id": 176605985
+  },
+  "Sticker Slab | Grim | Paris 2023": {
+    "cn_name": "印花板 | Grim | 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | Grim | Paris 2023",
+    "name_id": 176612191
   },
   "Sticker Slab | GruBy (Foil) | Cluj-Napoca 2015": {
     "cn_name": "印花板 | GruBy（闪亮）| 2015年克卢日-纳波卡锦标赛",
@@ -78073,6 +78438,11 @@
     "cn_name": "印花板 | 沮丧至极",
     "en_name": "Sticker Slab | Gutted",
     "name_id": 176583496
+  },
+  "Sticker Slab | HEN1 (Glitter) | Copenhagen 2024": {
+    "cn_name": "印花板 | HEN1（闪耀）| 2024年哥本哈根锦标赛",
+    "en_name": "Sticker Slab | HEN1 (Glitter) | Copenhagen 2024",
+    "name_id": 176616055
   },
   "Sticker Slab | HEN1 (Gold) | Copenhagen 2024": {
     "cn_name": "印花板 | HEN1（金色）| 2024年哥本哈根锦标赛",
@@ -78269,6 +78639,11 @@
     "en_name": "Sticker Slab | Heavygod (Holo) | Shanghai 2024",
     "name_id": 176570723
   },
+  "Sticker Slab | Heavygod | Austin 2025": {
+    "cn_name": "印花板 | Heavygod | 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | Heavygod | Austin 2025",
+    "name_id": 176613183
+  },
   "Sticker Slab | Heavygod | Budapest 2025": {
     "cn_name": "印花板 | Heavygod | 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | Heavygod | Budapest 2025",
@@ -78453,6 +78828,11 @@
     "cn_name": "印花板 | Hello MAC-10（金色）",
     "en_name": "Sticker Slab | Hello MAC-10 (Gold)",
     "name_id": 176564037
+  },
+  "Sticker Slab | Hello MP7": {
+    "cn_name": "印花板 | Hello MP7",
+    "en_name": "Sticker Slab | Hello MP7",
+    "name_id": 176615124
   },
   "Sticker Slab | Hello MP7 (Gold)": {
     "cn_name": "印花板 | Hello MP7（金色）",
@@ -78824,6 +79204,11 @@
     "en_name": "Sticker Slab | HooXi (Glitter) | Paris 2023",
     "name_id": 176582631
   },
+  "Sticker Slab | HooXi (Gold) | Antwerp 2022": {
+    "cn_name": "印花板 | HooXi（金色） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | HooXi (Gold) | Antwerp 2022",
+    "name_id": 176612906
+  },
   "Sticker Slab | HooXi (Gold) | Budapest 2025": {
     "cn_name": "印花板 | HooXi（金色）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | HooXi (Gold) | Budapest 2025",
@@ -78989,6 +79374,11 @@
     "en_name": "Sticker Slab | ICY (Holo) | Copenhagen 2024",
     "name_id": 176585043
   },
+  "Sticker Slab | ICY (Holo) | Shanghai 2024": {
+    "cn_name": "印花板 | ICY（全息）| 2024年上海锦标赛",
+    "en_name": "Sticker Slab | ICY (Holo) | Shanghai 2024",
+    "name_id": 176615152
+  },
   "Sticker Slab | ICY | Shanghai 2024": {
     "cn_name": "印花板 | ICY | 2024年上海锦标赛",
     "en_name": "Sticker Slab | ICY | Shanghai 2024",
@@ -79038,6 +79428,11 @@
     "cn_name": "印花板 | IHC Esports（闪耀）| 2022年里约热内卢锦标赛",
     "en_name": "Sticker Slab | IHC Esports (Glitter) | Rio 2022",
     "name_id": 176564678
+  },
+  "Sticker Slab | IHC Esports (Gold) | Antwerp 2022": {
+    "cn_name": "印花板 | IHC Esports（金色）| 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | IHC Esports (Gold) | Antwerp 2022",
+    "name_id": 176612610
   },
   "Sticker Slab | IHC Esports (Gold) | Rio 2022": {
     "cn_name": "印花板 | IHC Esports（金色）| 2022年里约热内卢锦标赛",
@@ -79128,6 +79523,11 @@
     "cn_name": "印花板 | INS | 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | INS | Budapest 2025",
     "name_id": 176571014
+  },
+  "Sticker Slab | INS | Paris 2023": {
+    "cn_name": "印花板 | INS | 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | INS | Paris 2023",
+    "name_id": 176612190
   },
   "Sticker Slab | INS | Rio 2022": {
     "cn_name": "印花板 | INS | 2022年里约热内卢锦标赛",
@@ -79419,6 +79819,11 @@
     "en_name": "Sticker Slab | JBa (Gold) | Austin 2025",
     "name_id": 176565924
   },
+  "Sticker Slab | JBa (Gold) | Shanghai 2024": {
+    "cn_name": "印花板 | JBa（金色）| 2024年上海锦标赛",
+    "en_name": "Sticker Slab | JBa (Gold) | Shanghai 2024",
+    "name_id": 176613386
+  },
   "Sticker Slab | JBa (Holo) | Austin 2025": {
     "cn_name": "印花板 | JBa（全息）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | JBa (Holo) | Austin 2025",
@@ -79463,6 +79868,11 @@
     "cn_name": "印花板 | JOTA（闪耀）| 2022年安特卫普锦标赛",
     "en_name": "Sticker Slab | JOTA (Glitter) | Antwerp 2022",
     "name_id": 176585267
+  },
+  "Sticker Slab | JOTA (Gold) | Antwerp 2022": {
+    "cn_name": "印花板 | JOTA（金色） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | JOTA (Gold) | Antwerp 2022",
+    "name_id": 176617239
   },
   "Sticker Slab | JOTA (Holo) | Antwerp 2022": {
     "cn_name": "印花板 | JOTA（全息） | 2022年安特卫普锦标赛",
@@ -79544,6 +79954,11 @@
     "en_name": "Sticker Slab | JT (Holo) | Shanghai 2024",
     "name_id": 176610674
   },
+  "Sticker Slab | JT | Austin 2025": {
+    "cn_name": "印花板 | JT | 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | JT | Austin 2025",
+    "name_id": 176617142
+  },
   "Sticker Slab | JT | Budapest 2025": {
     "cn_name": "印花板 | JT | 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | JT | Budapest 2025",
@@ -79608,6 +80023,11 @@
     "cn_name": "印花板 | JW | 2015年科隆锦标赛",
     "en_name": "Sticker Slab | JW | Cologne 2015",
     "name_id": 176587383
+  },
+  "Sticker Slab | JW | Cologne 2016": {
+    "cn_name": "印花板 | JW | 2016年科隆锦标赛",
+    "en_name": "Sticker Slab | JW | Cologne 2016",
+    "name_id": 176616797
   },
   "Sticker Slab | JW | Katowice 2019": {
     "cn_name": "印花板 | JW | 2019年卡托维兹锦标赛",
@@ -79739,6 +80159,11 @@
     "en_name": "Sticker Slab | Jame (Glitter, Champion) | Rio 2022",
     "name_id": 176564931
   },
+  "Sticker Slab | Jame (Gold) | Antwerp 2022": {
+    "cn_name": "印花板 | Jame（金色） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | Jame (Gold) | Antwerp 2022",
+    "name_id": 176613429
+  },
   "Sticker Slab | Jame (Gold) | Budapest 2025": {
     "cn_name": "印花板 | Jame（金色）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | Jame (Gold) | Budapest 2025",
@@ -79833,6 +80258,11 @@
     "cn_name": "印花板 | Jee（刺绣）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | Jee (Embroidered) | Budapest 2025",
     "name_id": 176561281
+  },
+  "Sticker Slab | Jee (Foil) | Austin 2025": {
+    "cn_name": "印花板 | Jee（闪亮）| 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | Jee (Foil) | Austin 2025",
+    "name_id": 176614922
   },
   "Sticker Slab | Jee (Gold) | Austin 2025": {
     "cn_name": "印花板 | Jee（金色）| 2025年奥斯汀锦标赛",
@@ -79954,6 +80384,11 @@
     "en_name": "Sticker Slab | Jimpphat (Holo) | Copenhagen 2024",
     "name_id": 176563603
   },
+  "Sticker Slab | Jimpphat (Holo) | Shanghai 2024": {
+    "cn_name": "印花板 | Jimpphat（全息）| 2024年上海锦标赛",
+    "en_name": "Sticker Slab | Jimpphat (Holo) | Shanghai 2024",
+    "name_id": 176613754
+  },
   "Sticker Slab | Jimpphat | Austin 2025": {
     "cn_name": "印花板 | Jimpphat | 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | Jimpphat | Austin 2025",
@@ -79993,6 +80428,11 @@
     "cn_name": "印花板 | KENSi（全息） | 2022年安特卫普锦标赛",
     "en_name": "Sticker Slab | KENSi (Holo) | Antwerp 2022",
     "name_id": 176583363
+  },
+  "Sticker Slab | KENSi | Antwerp 2022": {
+    "cn_name": "印花板 | KENSi | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | KENSi | Antwerp 2022",
+    "name_id": 176614541
   },
   "Sticker Slab | KEi (Glitter) | Paris 2023": {
     "cn_name": "印花板 | KEi（闪耀）| 2023年巴黎锦标赛",
@@ -80063,6 +80503,11 @@
     "cn_name": "印花板 | KRIMZ（全息）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | KRIMZ (Holo) | Paris 2023",
     "name_id": 176569881
+  },
+  "Sticker Slab | KRIMZ (Holo) | Rio 2022": {
+    "cn_name": "印花板 | KRIMZ（全息）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | KRIMZ (Holo) | Rio 2022",
+    "name_id": 176616375
   },
   "Sticker Slab | KRIMZ | Budapest 2025": {
     "cn_name": "印花板 | KRIMZ | 2025年布达佩斯锦标赛",
@@ -80229,6 +80674,16 @@
     "en_name": "Sticker Slab | KSCERATO | Paris 2023",
     "name_id": 176584625
   },
+  "Sticker Slab | KSCERATO | Rio 2022": {
+    "cn_name": "印花板 | KSCERATO | 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | KSCERATO | Rio 2022",
+    "name_id": 176613480
+  },
+  "Sticker Slab | KSCERATO | Stockholm 2021": {
+    "cn_name": "印花板 | KSCERATO | 2021年斯德哥尔摩锦标赛",
+    "en_name": "Sticker Slab | KSCERATO | Stockholm 2021",
+    "name_id": 176614370
+  },
   "Sticker Slab | Karsa | Boston 2018": {
     "cn_name": "印花板 | Karsa | 2018年波士顿锦标赛",
     "en_name": "Sticker Slab | Karsa | Boston 2018",
@@ -80314,6 +80769,16 @@
     "en_name": "Sticker Slab | Keoz (Holo) | Paris 2023",
     "name_id": 176590133
   },
+  "Sticker Slab | Keoz | Paris 2023": {
+    "cn_name": "印花板 | Keoz | 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | Keoz | Paris 2023",
+    "name_id": 176612189
+  },
+  "Sticker Slab | Keoz | Rio 2022": {
+    "cn_name": "印花板 | Keoz | 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | Keoz | Rio 2022",
+    "name_id": 176615571
+  },
   "Sticker Slab | Keyd Stars (Holo) | Katowice 2015": {
     "cn_name": "印花板 | Keyd Stars（全息）| 2015年卡托维兹锦标赛",
     "en_name": "Sticker Slab | Keyd Stars (Holo) | Katowice 2015",
@@ -80364,6 +80829,11 @@
     "en_name": "Sticker Slab | Kitted Out",
     "name_id": 176582676
   },
+  "Sticker Slab | Kjaerbye (Foil) | Berlin 2019": {
+    "cn_name": "印花板 | Kjaerbye（闪亮）| 2019年柏林锦标赛",
+    "en_name": "Sticker Slab | Kjaerbye (Foil) | Berlin 2019",
+    "name_id": 176613751
+  },
   "Sticker Slab | Kjaerbye | Atlanta 2017": {
     "cn_name": "印花板 | Kjaerbye | 2017年亚特兰大锦标赛",
     "en_name": "Sticker Slab | Kjaerbye | Atlanta 2017",
@@ -80409,10 +80879,25 @@
     "en_name": "Sticker Slab | Krad (Holo) | Copenhagen 2024",
     "name_id": 176567384
   },
+  "Sticker Slab | Krad (Holo) | Paris 2023": {
+    "cn_name": "印花板 | Krad（全息）| 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | Krad (Holo) | Paris 2023",
+    "name_id": 176612825
+  },
+  "Sticker Slab | Krad | Paris 2023": {
+    "cn_name": "印花板 | Krad | 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | Krad | Paris 2023",
+    "name_id": 176612188
+  },
   "Sticker Slab | Krimbo (Glitter) | Antwerp 2022": {
     "cn_name": "印花板 | Krimbo（闪耀） | 2022年安特卫普锦标赛",
     "en_name": "Sticker Slab | Krimbo (Glitter) | Antwerp 2022",
     "name_id": 176565039
+  },
+  "Sticker Slab | Krimbo (Glitter) | Shanghai 2024": {
+    "cn_name": "印花板 | Krimbo（闪耀）| 2024年上海锦标赛",
+    "en_name": "Sticker Slab | Krimbo (Glitter) | Shanghai 2024",
+    "name_id": 176613105
   },
   "Sticker Slab | Krimbo | Antwerp 2022": {
     "cn_name": "印花板 | Krimbo | 2022年安特卫普锦标赛",
@@ -80483,6 +80968,11 @@
     "cn_name": "印花板 | Kylar（全息）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | Kylar (Holo) | Paris 2023",
     "name_id": 176582112
+  },
+  "Sticker Slab | Kylar | Paris 2023": {
+    "cn_name": "印花板 | Kylar | 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | Kylar | Paris 2023",
+    "name_id": 176616167
   },
   "Sticker Slab | Kyojin (Holo) | Stockholm 2021": {
     "cn_name": "印花板 | Kyojin （全息） | 2021年斯德哥尔摩锦标赛",
@@ -80659,6 +81149,11 @@
     "en_name": "Sticker Slab | Last Vance (Gold)",
     "name_id": 176563255
   },
+  "Sticker Slab | Leagues of Votann 2": {
+    "cn_name": "印花板 | 沃坦联盟2",
+    "en_name": "Sticker Slab | Leagues of Votann 2",
+    "name_id": 176614769
+  },
   "Sticker Slab | Leaving The Station (Holo)": {
     "cn_name": "印花板 | 火车离站（全息）",
     "en_name": "Sticker Slab | Leaving The Station (Holo)",
@@ -80769,6 +81264,11 @@
     "en_name": "Sticker Slab | Lekr0 | Berlin 2019",
     "name_id": 176584954
   },
+  "Sticker Slab | Lekr0 | Boston 2018": {
+    "cn_name": "印花板 | Lekr0 | 2018年波士顿锦标赛",
+    "en_name": "Sticker Slab | Lekr0 | Boston 2018",
+    "name_id": 176617238
+  },
   "Sticker Slab | Lekr0 | London 2018": {
     "cn_name": "印花板 | Lekr0 | 2018年伦敦锦标赛",
     "en_name": "Sticker Slab | Lekr0 | London 2018",
@@ -80793,6 +81293,11 @@
     "cn_name": "印花板 | Liazz（闪亮）| 2019年柏林锦标赛",
     "en_name": "Sticker Slab | Liazz (Foil) | Berlin 2019",
     "name_id": 176585576
+  },
+  "Sticker Slab | Liazz (Foil) | Katowice 2019": {
+    "cn_name": "印花板 | Liazz（闪亮）| 2019年卡托维兹锦标赛",
+    "en_name": "Sticker Slab | Liazz (Foil) | Katowice 2019",
+    "name_id": 176617153
   },
   "Sticker Slab | Liazz (Glitter) | Antwerp 2022": {
     "cn_name": "印花板 | Liazz（闪耀） | 2022年安特卫普锦标赛",
@@ -80843,6 +81348,11 @@
     "cn_name": "印花板 | Liazz | 2019年柏林锦标赛",
     "en_name": "Sticker Slab | Liazz | Berlin 2019",
     "name_id": 176566661
+  },
+  "Sticker Slab | Liazz | Paris 2023": {
+    "cn_name": "印花板 | Liazz | 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | Liazz | Paris 2023",
+    "name_id": 176612187
   },
   "Sticker Slab | Liquid (Foil) | 2020 RMR": {
     "cn_name": "印花板 | Liquid（闪亮）| 2020 RMR",
@@ -81048,6 +81558,11 @@
     "cn_name": "印花板 | Lucky（金色）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | Lucky (Gold) | Austin 2025",
     "name_id": 176559571
+  },
+  "Sticker Slab | Lucky (Gold) | Berlin 2019": {
+    "cn_name": "印花板 | Lucky（金色）| 2019年柏林锦标赛",
+    "en_name": "Sticker Slab | Lucky (Gold) | Berlin 2019",
+    "name_id": 176612395
   },
   "Sticker Slab | Lucky (Gold) | Budapest 2025": {
     "cn_name": "印花板 | Lucky（金色）| 2025年布达佩斯锦标赛",
@@ -81294,6 +81809,11 @@
     "en_name": "Sticker Slab | MAJ3R (Holo) | Budapest 2025",
     "name_id": 176562734
   },
+  "Sticker Slab | MAJ3R (Holo) | Copenhagen 2024": {
+    "cn_name": "印花板 | MAJ3R（全息）| 2024年哥本哈根锦标赛",
+    "en_name": "Sticker Slab | MAJ3R (Holo) | Copenhagen 2024",
+    "name_id": 176616276
+  },
   "Sticker Slab | MAJ3R | Austin 2025": {
     "cn_name": "印花板 | MAJ3R | 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | MAJ3R | Austin 2025",
@@ -81303,6 +81823,11 @@
     "cn_name": "印花板 | MAJ3R | 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | MAJ3R | Budapest 2025",
     "name_id": 176559628
+  },
+  "Sticker Slab | MAJ3R | Copenhagen 2024": {
+    "cn_name": "印花板 | MAJ3R | 2024年哥本哈根锦标赛",
+    "en_name": "Sticker Slab | MAJ3R | Copenhagen 2024",
+    "name_id": 176615933
   },
   "Sticker Slab | MATYS (Embroidered) | Budapest 2025": {
     "cn_name": "印花板 | MATYS（刺绣）| 2025年布达佩斯锦标赛",
@@ -81669,6 +82194,11 @@
     "en_name": "Sticker Slab | Magisk (Foil) | Katowice 2019",
     "name_id": 176587127
   },
+  "Sticker Slab | Magisk (Glitter) | Antwerp 2022": {
+    "cn_name": "印花板 | Magisk（闪耀） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | Magisk (Glitter) | Antwerp 2022",
+    "name_id": 176613840
+  },
   "Sticker Slab | Magisk (Glitter) | Paris 2023": {
     "cn_name": "印花板 | Magisk（闪耀）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | Magisk (Glitter) | Paris 2023",
@@ -81739,6 +82269,11 @@
     "en_name": "Sticker Slab | Magisk (Holo, Champion) | Paris 2023",
     "name_id": 176563761
   },
+  "Sticker Slab | Magisk | Antwerp 2022": {
+    "cn_name": "印花板 | Magisk | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | Magisk | Antwerp 2022",
+    "name_id": 176613389
+  },
   "Sticker Slab | Magisk | Berlin 2019": {
     "cn_name": "印花板 | Magisk | 2019年柏林锦标赛",
     "en_name": "Sticker Slab | Magisk | Berlin 2019",
@@ -81788,6 +82323,11 @@
     "cn_name": "印花板 | Maikelele（闪亮）| 2016年 MLG 哥伦布锦标赛",
     "en_name": "Sticker Slab | Maikelele (Foil) | MLG Columbus 2016",
     "name_id": 176562909
+  },
+  "Sticker Slab | Maikelele | Cologne 2015": {
+    "cn_name": "印花板 | Maikelele | 2015年科隆锦标赛",
+    "en_name": "Sticker Slab | Maikelele | Cologne 2015",
+    "name_id": 176615125
   },
   "Sticker Slab | Maka (Embroidered) | Budapest 2025": {
     "cn_name": "印花板 | Maka（刺绣）| 2025年布达佩斯锦标赛",
@@ -82069,6 +82609,11 @@
     "en_name": "Sticker Slab | Misfits Gaming (Holo) | Boston 2018",
     "name_id": 176564203
   },
+  "Sticker Slab | Misfits Gaming | Boston 2018": {
+    "cn_name": "印花板 | Misfits Gaming | 2018年波士顿锦标赛",
+    "en_name": "Sticker Slab | Misfits Gaming | Boston 2018",
+    "name_id": 176612538
+  },
   "Sticker Slab | Mister Chief": {
     "cn_name": "印花板 | 土官长",
     "en_name": "Sticker Slab | Mister Chief",
@@ -82118,6 +82663,11 @@
     "cn_name": "印花板 | Moseyuh（闪亮）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | Moseyuh (Foil) | Austin 2025",
     "name_id": 176586870
+  },
+  "Sticker Slab | Moseyuh (Gold) | Austin 2025": {
+    "cn_name": "印花板 | Moseyuh（金色）| 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | Moseyuh (Gold) | Austin 2025",
+    "name_id": 176613272
   },
   "Sticker Slab | Moseyuh (Gold) | Budapest 2025": {
     "cn_name": "印花板 | Moseyuh（金色）| 2025年布达佩斯锦标赛",
@@ -82209,6 +82759,16 @@
     "en_name": "Sticker Slab | NAF (Foil) | Austin 2025",
     "name_id": 176584257
   },
+  "Sticker Slab | NAF (Foil) | Berlin 2019": {
+    "cn_name": "印花板 | NAF（闪亮）| 2019年柏林锦标赛",
+    "en_name": "Sticker Slab | NAF (Foil) | Berlin 2019",
+    "name_id": 176617054
+  },
+  "Sticker Slab | NAF (Foil) | Katowice 2019": {
+    "cn_name": "印花板 | NAF（闪亮）| 2019年卡托维兹锦标赛",
+    "en_name": "Sticker Slab | NAF (Foil) | Katowice 2019",
+    "name_id": 176615239
+  },
   "Sticker Slab | NAF (Glitter) | Paris 2023": {
     "cn_name": "印花板 | NAF（闪耀）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | NAF (Glitter) | Paris 2023",
@@ -82228,6 +82788,11 @@
     "cn_name": "印花板 | NAF（金色）| 2019年卡托维兹锦标赛",
     "en_name": "Sticker Slab | NAF (Gold) | Katowice 2019",
     "name_id": 176609921
+  },
+  "Sticker Slab | NAF (Gold) | Rio 2022": {
+    "cn_name": "印花板 | NAF（金色）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | NAF (Gold) | Rio 2022",
+    "name_id": 176612254
   },
   "Sticker Slab | NAF (Holo) | Austin 2025": {
     "cn_name": "印花板 | NAF（全息）| 2025年奥斯汀锦标赛",
@@ -82339,6 +82904,11 @@
     "en_name": "Sticker Slab | NBK- | Krakow 2017",
     "name_id": 176563634
   },
+  "Sticker Slab | NEKiZ (Glitter) | Copenhagen 2024": {
+    "cn_name": "印花板 | NEKiZ（闪耀）| 2024年哥本哈根锦标赛",
+    "en_name": "Sticker Slab | NEKiZ (Glitter) | Copenhagen 2024",
+    "name_id": 176615406
+  },
   "Sticker Slab | NEKiZ (Gold) | Paris 2023": {
     "cn_name": "印花板 | NEKiZ（金色）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | NEKiZ (Gold) | Paris 2023",
@@ -82409,6 +82979,11 @@
     "en_name": "Sticker Slab | NEO | MLG Columbus 2016",
     "name_id": 176608035
   },
+  "Sticker Slab | NEOFRAG (Glitter) | Paris 2023": {
+    "cn_name": "印花板 | NEOFRAG（闪耀）| 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | NEOFRAG (Glitter) | Paris 2023",
+    "name_id": 176612975
+  },
   "Sticker Slab | NEOFRAG (Glitter) | Rio 2022": {
     "cn_name": "印花板 | NEOFRAG（闪耀）| 2022年里约热内卢锦标赛",
     "en_name": "Sticker Slab | NEOFRAG (Glitter) | Rio 2022",
@@ -82418,6 +82993,11 @@
     "cn_name": "印花板 | NEOFRAG（金色）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | NEOFRAG (Gold) | Paris 2023",
     "name_id": 176564367
+  },
+  "Sticker Slab | NEOFRAG (Gold) | Rio 2022": {
+    "cn_name": "印花板 | NEOFRAG（金色）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | NEOFRAG (Gold) | Rio 2022",
+    "name_id": 176614102
   },
   "Sticker Slab | NEOFRAG (Holo) | Paris 2023": {
     "cn_name": "印花板 | NEOFRAG（全息）| 2023年巴黎锦标赛",
@@ -82439,6 +83019,11 @@
     "en_name": "Sticker Slab | NQZ (Embroidered) | Budapest 2025",
     "name_id": 176561387
   },
+  "Sticker Slab | NQZ (Foil) | Austin 2025": {
+    "cn_name": "印花板 | NQZ（闪亮）| 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | NQZ (Foil) | Austin 2025",
+    "name_id": 176613537
+  },
   "Sticker Slab | NQZ (Glitter) | Shanghai 2024": {
     "cn_name": "印花板 | NQZ（闪耀）| 2024年上海锦标赛",
     "en_name": "Sticker Slab | NQZ (Glitter) | Shanghai 2024",
@@ -82453,6 +83038,11 @@
     "cn_name": "印花板 | NQZ（金色）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | NQZ (Gold) | Budapest 2025",
     "name_id": 176561402
+  },
+  "Sticker Slab | NQZ (Gold) | Rio 2022": {
+    "cn_name": "印花板 | NQZ（金色）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | NQZ (Gold) | Rio 2022",
+    "name_id": 176615901
   },
   "Sticker Slab | NQZ (Holo) | Austin 2025": {
     "cn_name": "印花板 | NQZ（全息）| 2025年奥斯汀锦标赛",
@@ -83154,6 +83744,11 @@
     "en_name": "Sticker Slab | NiKo (Gold) | Shanghai 2024",
     "name_id": 176562140
   },
+  "Sticker Slab | NiKo (Gold) | Stockholm 2021": {
+    "cn_name": "印花板 | NiKo（金色）| 2021年斯德哥尔摩锦标赛",
+    "en_name": "Sticker Slab | NiKo (Gold) | Stockholm 2021",
+    "name_id": 176612628
+  },
   "Sticker Slab | NiKo (Holo) | Antwerp 2022": {
     "cn_name": "印花板 | NiKo（全息） | 2022年安特卫普锦标赛",
     "en_name": "Sticker Slab | NiKo (Holo) | Antwerp 2022",
@@ -83213,6 +83808,11 @@
     "cn_name": "印花板 | NiKo | 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | NiKo | Budapest 2025",
     "name_id": 176559410
+  },
+  "Sticker Slab | NiKo | Copenhagen 2024": {
+    "cn_name": "印花板 | NiKo | 2024年哥本哈根锦标赛",
+    "en_name": "Sticker Slab | NiKo | Copenhagen 2024",
+    "name_id": 176613712
   },
   "Sticker Slab | NiKo | Katowice 2019": {
     "cn_name": "印花板 | NiKo | 2019年卡托维兹锦标赛",
@@ -84144,6 +84744,11 @@
     "en_name": "Sticker Slab | Passion UA | Shanghai 2024",
     "name_id": 176582236
   },
+  "Sticker Slab | Patsi (Glitter) | Rio 2022": {
+    "cn_name": "印花板 | Patsi（闪耀）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | Patsi (Glitter) | Rio 2022",
+    "name_id": 176614390
+  },
   "Sticker Slab | Patsi (Gold) | Antwerp 2022": {
     "cn_name": "印花板 | Patsi（金色） | 2022年安特卫普锦标赛",
     "en_name": "Sticker Slab | Patsi (Gold) | Antwerp 2022",
@@ -84674,10 +85279,20 @@
     "en_name": "Sticker Slab | REZ (Gold) | Paris 2023",
     "name_id": 176612053
   },
+  "Sticker Slab | REZ (Gold) | Rio 2022": {
+    "cn_name": "印花板 | REZ（金色）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | REZ (Gold) | Rio 2022",
+    "name_id": 176614826
+  },
   "Sticker Slab | REZ (Gold) | Stockholm 2021": {
     "cn_name": "印花板 | REZ（金色）| 2021年斯德哥尔摩锦标赛",
     "en_name": "Sticker Slab | REZ (Gold) | Stockholm 2021",
     "name_id": 176605640
+  },
+  "Sticker Slab | REZ (Holo) | Antwerp 2022": {
+    "cn_name": "印花板 | REZ（全息） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | REZ (Holo) | Antwerp 2022",
+    "name_id": 176612468
   },
   "Sticker Slab | REZ (Holo) | Budapest 2025": {
     "cn_name": "印花板 | REZ（全息）| 2025年布达佩斯锦标赛",
@@ -85044,6 +85659,11 @@
     "en_name": "Sticker Slab | RpK | Berlin 2019",
     "name_id": 176606883
   },
+  "Sticker Slab | RpK | Boston 2018": {
+    "cn_name": "印花板 | RpK | 2018年波士顿锦标赛",
+    "en_name": "Sticker Slab | RpK | Boston 2018",
+    "name_id": 176616264
+  },
   "Sticker Slab | RpK | Cologne 2015": {
     "cn_name": "印花板 | RpK | 2015年科隆锦标赛",
     "en_name": "Sticker Slab | RpK | Cologne 2015",
@@ -85179,6 +85799,11 @@
     "en_name": "Sticker Slab | SENER1 | Antwerp 2022",
     "name_id": 176564238
   },
+  "Sticker Slab | SENER1 | Paris 2023": {
+    "cn_name": "印花板 | SENER1 | 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | SENER1 | Paris 2023",
+    "name_id": 176615908
+  },
   "Sticker Slab | SK Gaming (Foil) | Cologne 2016": {
     "cn_name": "印花板 | SK Gaming（闪亮）| 2016年科隆锦标赛",
     "en_name": "Sticker Slab | SK Gaming (Foil) | Cologne 2016",
@@ -85229,6 +85854,11 @@
     "en_name": "Sticker Slab | SPUNJ (Foil) | Cologne 2015",
     "name_id": 176567224
   },
+  "Sticker Slab | STYKO (Foil) | Boston 2018": {
+    "cn_name": "印花板 | STYKO（闪亮）| 2018年波士顿锦标赛",
+    "en_name": "Sticker Slab | STYKO (Foil) | Boston 2018",
+    "name_id": 176613583
+  },
   "Sticker Slab | STYKO (Glitter) | Paris 2023": {
     "cn_name": "印花板 | STYKO（闪耀）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | STYKO (Glitter) | Paris 2023",
@@ -85243,6 +85873,11 @@
     "cn_name": "印花板 | STYKO | 2018年伦敦锦标赛",
     "en_name": "Sticker Slab | STYKO | London 2018",
     "name_id": 176581457
+  },
+  "Sticker Slab | STYKO | Paris 2023": {
+    "cn_name": "印花板 | STYKO | 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | STYKO | Paris 2023",
+    "name_id": 176612186
   },
   "Sticker Slab | Salamanders": {
     "cn_name": "印花板 | 火蜥蜴",
@@ -85534,6 +86169,11 @@
     "en_name": "Sticker Slab | Sico (Glitter) | Paris 2023",
     "name_id": 176588073
   },
+  "Sticker Slab | Sico (Glitter) | Rio 2022": {
+    "cn_name": "印花板 | Sico（闪耀）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | Sico (Glitter) | Rio 2022",
+    "name_id": 176613354
+  },
   "Sticker Slab | Sico (Gold) | Paris 2023": {
     "cn_name": "印花板 | Sico（金色）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | Sico (Gold) | Paris 2023",
@@ -85734,6 +86374,11 @@
     "en_name": "Sticker Slab | Snappi | Antwerp 2022",
     "name_id": 176590624
   },
+  "Sticker Slab | Snappi | Paris 2023": {
+    "cn_name": "印花板 | Snappi | 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | Snappi | Paris 2023",
+    "name_id": 176617108
+  },
   "Sticker Slab | Snax (Foil) | Austin 2025": {
     "cn_name": "印花板 | Snax（闪亮）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | Snax (Foil) | Austin 2025",
@@ -85818,6 +86463,11 @@
     "cn_name": "印花板 | Snax | 2015年科隆锦标赛",
     "en_name": "Sticker Slab | Snax | Cologne 2015",
     "name_id": 176568138
+  },
+  "Sticker Slab | Snax | Copenhagen 2024": {
+    "cn_name": "印花板 | Snax | 2024年哥本哈根锦标赛",
+    "en_name": "Sticker Slab | Snax | Copenhagen 2024",
+    "name_id": 176614920
   },
   "Sticker Slab | Snax | Krakow 2017": {
     "cn_name": "印花板 | Snax | 2017年克拉科夫锦标赛",
@@ -86044,6 +86694,11 @@
     "en_name": "Sticker Slab | Spinx (Gold, Champion) | Paris 2023",
     "name_id": 176563175
   },
+  "Sticker Slab | Spinx (Holo) | Antwerp 2022": {
+    "cn_name": "印花板 | Spinx（全息）| 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | Spinx (Holo) | Antwerp 2022",
+    "name_id": 176616798
+  },
   "Sticker Slab | Spinx (Holo) | Austin 2025": {
     "cn_name": "印花板 | Spinx（全息）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | Spinx (Holo) | Austin 2025",
@@ -86093,6 +86748,11 @@
     "cn_name": "印花板 | Spinx | 2024年哥本哈根锦标赛",
     "en_name": "Sticker Slab | Spinx | Copenhagen 2024",
     "name_id": 176601887
+  },
+  "Sticker Slab | Spinx | Paris 2023": {
+    "cn_name": "印花板 | Spinx | 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | Spinx | Paris 2023",
+    "name_id": 176612185
   },
   "Sticker Slab | Spinx | Shanghai 2024": {
     "cn_name": "印花板 | Spinx | 2024年上海锦标赛",
@@ -86304,6 +86964,11 @@
     "en_name": "Sticker Slab | Stewie2K (Foil) | Krakow 2017",
     "name_id": 176567202
   },
+  "Sticker Slab | Stewie2K (Foil) | London 2018": {
+    "cn_name": "印花板 | Stewie2K（闪亮）| 2018年伦敦锦标赛",
+    "en_name": "Sticker Slab | Stewie2K (Foil) | London 2018",
+    "name_id": 176612282
+  },
   "Sticker Slab | Stewie2K (Gold) | Berlin 2019": {
     "cn_name": "印花板 | Stewie2K（金色）| 2019年柏林锦标赛",
     "en_name": "Sticker Slab | Stewie2K (Gold) | Berlin 2019",
@@ -86429,6 +87094,11 @@
     "en_name": "Sticker Slab | SunPayus (Glitter) | Paris 2023",
     "name_id": 176603957
   },
+  "Sticker Slab | SunPayus (Glitter) | Rio 2022": {
+    "cn_name": "印花板 | SunPayus（闪耀）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | SunPayus (Glitter) | Rio 2022",
+    "name_id": 176617217
+  },
   "Sticker Slab | SunPayus (Gold) | Austin 2025": {
     "cn_name": "印花板 | SunPayus（金色）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | SunPayus (Gold) | Austin 2025",
@@ -86508,6 +87178,11 @@
     "cn_name": "印花板 | Swisher（刺绣）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | Swisher (Embroidered) | Budapest 2025",
     "name_id": 176561507
+  },
+  "Sticker Slab | Swisher (Foil) | Austin 2025": {
+    "cn_name": "印花板 | Swisher（闪亮）| 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | Swisher (Foil) | Austin 2025",
+    "name_id": 176616564
   },
   "Sticker Slab | Swisher (Gold) | Austin 2025": {
     "cn_name": "印花板 | Swisher（金色）| 2025年奥斯汀锦标赛",
@@ -86658,6 +87333,11 @@
     "cn_name": "印花板 | TRY（刺绣）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | TRY (Embroidered) | Budapest 2025",
     "name_id": 176564884
+  },
+  "Sticker Slab | TRY (Glitter) | Rio 2022": {
+    "cn_name": "印花板 | TRY（闪耀）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | TRY (Glitter) | Rio 2022",
+    "name_id": 176613834
   },
   "Sticker Slab | TRY (Gold) | Austin 2025": {
     "cn_name": "印花板 | TRY（金色）| 2025年奥斯汀锦标赛",
@@ -86884,6 +87564,11 @@
     "en_name": "Sticker Slab | TeSeS (Foil) | Austin 2025",
     "name_id": 176569915
   },
+  "Sticker Slab | TeSeS (Glitter) | Antwerp 2022": {
+    "cn_name": "印花板 | TeSeS（闪耀） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | TeSeS (Glitter) | Antwerp 2022",
+    "name_id": 176612963
+  },
   "Sticker Slab | TeSeS (Glitter) | Paris 2023": {
     "cn_name": "印花板 | TeSeS（闪耀）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | TeSeS (Glitter) | Paris 2023",
@@ -86924,6 +87609,11 @@
     "en_name": "Sticker Slab | TeSeS (Holo) | Antwerp 2022",
     "name_id": 176583140
   },
+  "Sticker Slab | TeSeS (Holo) | Austin 2025": {
+    "cn_name": "印花板 | TeSeS（全息）| 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | TeSeS (Holo) | Austin 2025",
+    "name_id": 176616022
+  },
   "Sticker Slab | TeSeS (Holo) | Budapest 2025": {
     "cn_name": "印花板 | TeSeS（全息）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | TeSeS (Holo) | Budapest 2025",
@@ -86954,6 +87644,11 @@
     "en_name": "Sticker Slab | TeSeS | Paris 2023",
     "name_id": 176563204
   },
+  "Sticker Slab | TeSeS | Shanghai 2024": {
+    "cn_name": "印花板 | TeSeS | 2024年上海锦标赛",
+    "en_name": "Sticker Slab | TeSeS | Shanghai 2024",
+    "name_id": 176617224
+  },
   "Sticker Slab | Team Dignitas (Foil) | Cluj-Napoca 2015": {
     "cn_name": "印花板 | Team Dignitas（闪亮）| 2015年卢日-纳波卡锦标赛",
     "en_name": "Sticker Slab | Team Dignitas (Foil) | Cluj-Napoca 2015",
@@ -86968,6 +87663,11 @@
     "cn_name": "印花板 | Team Dignitas（闪亮）| 2014年 DreamHack 锦标赛",
     "en_name": "Sticker Slab | Team Dignitas (Foil) | DreamHack 2014",
     "name_id": 176559313
+  },
+  "Sticker Slab | Team Dignitas (Holo) | Cologne 2014": {
+    "cn_name": "印花板 | Team Dignitas（全息）| 2014年科隆锦标赛",
+    "en_name": "Sticker Slab | Team Dignitas (Holo) | Cologne 2014",
+    "name_id": 176613375
   },
   "Sticker Slab | Team Dignitas (Holo) | Cologne 2016": {
     "cn_name": "印花板 | Team Dignitas（全息）| 2016年科隆锦标赛",
@@ -87569,6 +88269,16 @@
     "en_name": "Sticker Slab | Techno4K (Foil) | Austin 2025",
     "name_id": 176611463
   },
+  "Sticker Slab | Techno4K (Glitter) | Antwerp 2022": {
+    "cn_name": "印花板 | Techno4K（闪耀） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | Techno4K (Glitter) | Antwerp 2022",
+    "name_id": 176614188
+  },
+  "Sticker Slab | Techno4K (Glitter) | Copenhagen 2024": {
+    "cn_name": "印花板 | Techno4K（闪耀）| 2024年哥本哈根锦标赛",
+    "en_name": "Sticker Slab | Techno4K (Glitter) | Copenhagen 2024",
+    "name_id": 176612607
+  },
   "Sticker Slab | Techno4K (Glitter) | Paris 2023": {
     "cn_name": "印花板 | Techno4K（闪耀）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | Techno4K (Glitter) | Paris 2023",
@@ -87638,6 +88348,11 @@
     "cn_name": "印花板 | Techno4K | 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | Techno4K | Paris 2023",
     "name_id": 176563114
+  },
+  "Sticker Slab | Techno4K | Shanghai 2024": {
+    "cn_name": "印花板 | Techno4K | 2024年上海锦标赛",
+    "en_name": "Sticker Slab | Techno4K | Shanghai 2024",
+    "name_id": 176613566
   },
   "Sticker Slab | Temperance": {
     "cn_name": "印花板 | 别起下把买",
@@ -87889,6 +88604,11 @@
     "en_name": "Sticker Slab | Thomas (Holo) | Paris 2023",
     "name_id": 176569580
   },
+  "Sticker Slab | Thomas | Paris 2023": {
+    "cn_name": "印花板 | Thomas | 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | Thomas | Paris 2023",
+    "name_id": 176617334
+  },
   "Sticker Slab | Thousand Sons 1": {
     "cn_name": "印花板 | 千子1",
     "en_name": "Sticker Slab | Thousand Sons 1",
@@ -87933,6 +88653,11 @@
     "cn_name": "印花板 | Titan（闪亮）| 2015年科隆锦标赛",
     "en_name": "Sticker Slab | Titan (Foil) | Cologne 2015",
     "name_id": 176561815
+  },
+  "Sticker Slab | Titan (Foil) | Katowice 2015": {
+    "cn_name": "印花板 | Titan（闪亮）| 2015年卡托维兹锦标赛",
+    "en_name": "Sticker Slab | Titan (Foil) | Katowice 2015",
+    "name_id": 176617272
   },
   "Sticker Slab | Titan (Holo) | Cologne 2014": {
     "cn_name": "印花板 | Titan（全息）| 2014年科隆锦标赛",
@@ -88254,6 +88979,11 @@
     "en_name": "Sticker Slab | Tyranids 1",
     "name_id": 176582161
   },
+  "Sticker Slab | Tyranids 2": {
+    "cn_name": "印花板 | 泰伦虫族2",
+    "en_name": "Sticker Slab | Tyranids 2",
+    "name_id": 176614249
+  },
   "Sticker Slab | Tyranids Hive Tyrant (Holo)": {
     "cn_name": "印花板 | 泰伦暴君 (全息)",
     "en_name": "Sticker Slab | Tyranids Hive Tyrant (Holo)",
@@ -88343,6 +89073,11 @@
     "cn_name": "印花板 | VINI（金色）| 2022年里约热内卢锦标赛",
     "en_name": "Sticker Slab | VINI (Gold) | Rio 2022",
     "name_id": 176568958
+  },
+  "Sticker Slab | VINI (Gold) | Shanghai 2024": {
+    "cn_name": "印花板 | VINI（金色）| 2024年上海锦标赛",
+    "en_name": "Sticker Slab | VINI (Gold) | Shanghai 2024",
+    "name_id": 176614363
   },
   "Sticker Slab | VINI (Gold) | Stockholm 2021": {
     "cn_name": "印花板 | VINI（金色）| 2021年斯德哥尔摩锦标赛",
@@ -89009,6 +89744,11 @@
     "en_name": "Sticker Slab | WOOD7 (Holo) | Paris 2023",
     "name_id": 176561799
   },
+  "Sticker Slab | WOOD7 | Antwerp 2022": {
+    "cn_name": "印花板 | WOOD7 | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | WOOD7 | Antwerp 2022",
+    "name_id": 176614349
+  },
   "Sticker Slab | WOOD7 | Paris 2023": {
     "cn_name": "印花板 | WOOD7 | 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | WOOD7 | Paris 2023",
@@ -89143,6 +89883,11 @@
     "cn_name": "印花板 | Wicadia（全息）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | Wicadia (Holo) | Budapest 2025",
     "name_id": 176568609
+  },
+  "Sticker Slab | Wicadia (Holo) | Copenhagen 2024": {
+    "cn_name": "印花板 | Wicadia（全息）| 2024年哥本哈根锦标赛",
+    "en_name": "Sticker Slab | Wicadia (Holo) | Copenhagen 2024",
+    "name_id": 176612215
   },
   "Sticker Slab | Wicadia | Austin 2025": {
     "cn_name": "印花板 | Wicadia | 2025年奥斯汀锦标赛",
@@ -89424,6 +90169,11 @@
     "en_name": "Sticker Slab | XANTARES | Katowice 2019",
     "name_id": 176564772
   },
+  "Sticker Slab | XANTARES | London 2018": {
+    "cn_name": "印花板 | XANTARES | 2018年伦敦锦标赛",
+    "en_name": "Sticker Slab | XANTARES | London 2018",
+    "name_id": 176616495
+  },
   "Sticker Slab | XD": {
     "cn_name": "印花板 | XD",
     "en_name": "Sticker Slab | XD",
@@ -89443,6 +90193,11 @@
     "cn_name": "印花板 | Xant3r（全息）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | Xant3r (Holo) | Austin 2025",
     "name_id": 176570628
+  },
+  "Sticker Slab | Xant3r | Austin 2025": {
+    "cn_name": "印花板 | Xant3r | 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | Xant3r | Austin 2025",
+    "name_id": 176617141
   },
   "Sticker Slab | Xizt (Foil) | MLG Columbus 2016": {
     "cn_name": "印花板 | Xizt（闪亮）| 2016年 MLG 哥伦布锦标赛",
@@ -89579,6 +90334,11 @@
     "en_name": "Sticker Slab | YEKINDAR (Gold) | Paris 2023",
     "name_id": 176563748
   },
+  "Sticker Slab | YEKINDAR (Gold) | Stockholm 2021": {
+    "cn_name": "印花板 | YEKINDAR（金色）| 2021年斯德哥尔摩锦标赛",
+    "en_name": "Sticker Slab | YEKINDAR (Gold) | Stockholm 2021",
+    "name_id": 176614306
+  },
   "Sticker Slab | YEKINDAR (Holo) | Antwerp 2022": {
     "cn_name": "印花板 | YEKINDAR（全息）| 2022年安特卫普锦标赛",
     "en_name": "Sticker Slab | YEKINDAR (Holo) | Antwerp 2022",
@@ -89623,6 +90383,11 @@
     "cn_name": "印花板 | YEKINDAR | 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | YEKINDAR | Paris 2023",
     "name_id": 176582151
+  },
+  "Sticker Slab | YEKINDAR | Rio 2022": {
+    "cn_name": "印花板 | YEKINDAR | 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | YEKINDAR | Rio 2022",
+    "name_id": 176614593
   },
   "Sticker Slab | YEKINDAR | Shanghai 2024": {
     "cn_name": "印花板 | YEKINDAR | 2024年上海锦标赛",
@@ -89899,6 +90664,11 @@
     "en_name": "Sticker Slab | ZywOo (Gold) | Shanghai 2024",
     "name_id": 176563338
   },
+  "Sticker Slab | ZywOo (Gold) | Stockholm 2021": {
+    "cn_name": "印花板 | ZywOo（金色）| 2021年斯德哥尔摩锦标赛",
+    "en_name": "Sticker Slab | ZywOo (Gold) | Stockholm 2021",
+    "name_id": 176616199
+  },
   "Sticker Slab | ZywOo (Gold, Champion) | Austin 2025": {
     "cn_name": "印花板 | ZywOo（金色，冠军）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | ZywOo (Gold, Champion) | Austin 2025",
@@ -90048,6 +90818,11 @@
     "cn_name": "印花板 | acoR（闪耀）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | acoR (Glitter) | Paris 2023",
     "name_id": 176604109
+  },
+  "Sticker Slab | acoR (Gold) | Paris 2023": {
+    "cn_name": "印花板 | acoR（金色）| 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | acoR (Gold) | Paris 2023",
+    "name_id": 176613964
   },
   "Sticker Slab | acoR (Gold) | Rio 2022": {
     "cn_name": "印花板 | acoR（金色）| 2022年里约热内卢锦标赛",
@@ -90199,6 +90974,11 @@
     "en_name": "Sticker Slab | aliStair (Holo) | Shanghai 2024",
     "name_id": 176607138
   },
+  "Sticker Slab | aliStair | Antwerp 2022": {
+    "cn_name": "印花板 | aliStair | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | aliStair | Antwerp 2022",
+    "name_id": 176612614
+  },
   "Sticker Slab | aliStair | Paris 2023": {
     "cn_name": "印花板 | aliStair | 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | aliStair | Paris 2023",
@@ -90218,6 +90998,11 @@
     "cn_name": "印花板 | allu（闪亮）| 2015年卢日-纳波卡锦标赛",
     "en_name": "Sticker Slab | allu (Foil) | Cluj-Napoca 2015",
     "name_id": 176567549
+  },
+  "Sticker Slab | allu (Foil) | Cologne 2015": {
+    "cn_name": "印花板 | allu（闪亮）| 2015年科隆锦标赛",
+    "en_name": "Sticker Slab | allu (Foil) | Cologne 2015",
+    "name_id": 176615387
   },
   "Sticker Slab | allu (Foil) | Katowice 2019": {
     "cn_name": "印花板 | allu（闪亮）| 2019年卡托维兹锦标赛",
@@ -90459,6 +91244,11 @@
     "en_name": "Sticker Slab | apEX | Atlanta 2017",
     "name_id": 176585186
   },
+  "Sticker Slab | apEX | Austin 2025": {
+    "cn_name": "印花板 | apEX | 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | apEX | Austin 2025",
+    "name_id": 176617171
+  },
   "Sticker Slab | apEX | Berlin 2019": {
     "cn_name": "印花板 | apEX | 2019年柏林锦标赛",
     "en_name": "Sticker Slab | apEX | Berlin 2019",
@@ -90483,6 +91273,11 @@
     "cn_name": "印花板 | apEX | 2015年科隆锦标赛",
     "en_name": "Sticker Slab | apEX | Cologne 2015",
     "name_id": 176561855
+  },
+  "Sticker Slab | apEX | Copenhagen 2024": {
+    "cn_name": "印花板 | apEX | 2024年哥本哈根锦标赛",
+    "en_name": "Sticker Slab | apEX | Copenhagen 2024",
+    "name_id": 176612797
   },
   "Sticker Slab | apEX | Katowice 2019": {
     "cn_name": "印花板 | apEX | 2019年卡托维兹锦标赛",
@@ -90529,6 +91324,11 @@
     "en_name": "Sticker Slab | arT (Glitter) | Antwerp 2022",
     "name_id": 176603914
   },
+  "Sticker Slab | arT (Glitter) | Paris 2023": {
+    "cn_name": "印花板 | arT（闪耀）| 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | arT (Glitter) | Paris 2023",
+    "name_id": 176612925
+  },
   "Sticker Slab | arT (Glitter) | Rio 2022": {
     "cn_name": "印花板 | arT（闪耀）| 2022年里约热内卢锦标赛",
     "en_name": "Sticker Slab | arT (Glitter) | Rio 2022",
@@ -90568,6 +91368,11 @@
     "cn_name": "印花板 | arT（金色）| 2022年里约热内卢锦标赛",
     "en_name": "Sticker Slab | arT (Gold) | Rio 2022",
     "name_id": 176590153
+  },
+  "Sticker Slab | arT (Gold) | Stockholm 2021": {
+    "cn_name": "印花板 | arT（金色）| 2021年斯德哥尔摩锦标赛",
+    "en_name": "Sticker Slab | arT (Gold) | Stockholm 2021",
+    "name_id": 176613707
   },
   "Sticker Slab | arT (Holo) | Austin 2025": {
     "cn_name": "印花板 | arT（全息）| 2025年奥斯汀锦标赛",
@@ -90619,6 +91424,11 @@
     "en_name": "Sticker Slab | arT | Paris 2023",
     "name_id": 176568841
   },
+  "Sticker Slab | arT | Rio 2022": {
+    "cn_name": "印花板 | arT | 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | arT | Rio 2022",
+    "name_id": 176612943
+  },
   "Sticker Slab | arT | Stockholm 2021": {
     "cn_name": "印花板 | arT | 2021年斯德哥尔摩锦标赛",
     "en_name": "Sticker Slab | arT | Stockholm 2021",
@@ -90654,6 +91464,11 @@
     "en_name": "Sticker Slab | autimatic (Glitter) | Rio 2022",
     "name_id": 176590470
   },
+  "Sticker Slab | autimatic (Gold) | Katowice 2019": {
+    "cn_name": "印花板 | autimatic（金色）| 2019年卡托维兹锦标赛",
+    "en_name": "Sticker Slab | autimatic (Gold) | Katowice 2019",
+    "name_id": 176616845
+  },
   "Sticker Slab | autimatic (Gold) | Rio 2022": {
     "cn_name": "印花板 | autimatic（金色）| 2022年里约热内卢锦标赛",
     "en_name": "Sticker Slab | autimatic (Gold) | Rio 2022",
@@ -90668,6 +91483,11 @@
     "cn_name": "印花板 | autimatic | 2018年波士顿锦标赛",
     "en_name": "Sticker Slab | autimatic | Boston 2018",
     "name_id": 176566819
+  },
+  "Sticker Slab | autimatic | Krakow 2017": {
+    "cn_name": "印花板 | autimatic | 2017年克拉科夫锦标赛",
+    "en_name": "Sticker Slab | autimatic | Krakow 2017",
+    "name_id": 176616513
   },
   "Sticker Slab | b1t (Champion) | Copenhagen 2024": {
     "cn_name": "印花板 | b1t（冠军）| 2024年哥本哈根锦标赛",
@@ -90859,6 +91679,11 @@
     "en_name": "Sticker Slab | bLitz (Foil) | Austin 2025",
     "name_id": 176567832
   },
+  "Sticker Slab | bLitz (Glitter) | Antwerp 2022": {
+    "cn_name": "印花板 | bLitz（闪耀） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | bLitz (Glitter) | Antwerp 2022",
+    "name_id": 176612918
+  },
   "Sticker Slab | bLitz (Glitter) | Copenhagen 2024": {
     "cn_name": "印花板 | bLitz（闪耀）| 2024年哥本哈根锦标赛",
     "en_name": "Sticker Slab | bLitz (Glitter) | Copenhagen 2024",
@@ -90934,6 +91759,11 @@
     "en_name": "Sticker Slab | bLitz | Paris 2023",
     "name_id": 176606950
   },
+  "Sticker Slab | bLitz | Rio 2022": {
+    "cn_name": "印花板 | bLitz | 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | bLitz | Rio 2022",
+    "name_id": 176617025
+  },
   "Sticker Slab | balblna | London 2018": {
     "cn_name": "印花板 | balblna | 2018年伦敦锦标赛",
     "en_name": "Sticker Slab | balblna | London 2018",
@@ -90953,6 +91783,11 @@
     "cn_name": "印花板 | biguzera（闪耀）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | biguzera (Glitter) | Paris 2023",
     "name_id": 176564441
+  },
+  "Sticker Slab | biguzera (Glitter) | Shanghai 2024": {
+    "cn_name": "印花板 | biguzera（闪耀）| 2024年上海锦标赛",
+    "en_name": "Sticker Slab | biguzera (Glitter) | Shanghai 2024",
+    "name_id": 176614947
   },
   "Sticker Slab | biguzera (Gold) | Austin 2025": {
     "cn_name": "印花板 | biguzera（金色）| 2025年奥斯汀锦标赛",
@@ -91014,6 +91849,11 @@
     "en_name": "Sticker Slab | biguzera | Paris 2023",
     "name_id": 176582233
   },
+  "Sticker Slab | biguzera | Shanghai 2024": {
+    "cn_name": "印花板 | biguzera | 2024年上海锦标赛",
+    "en_name": "Sticker Slab | biguzera | Shanghai 2024",
+    "name_id": 176615117
+  },
   "Sticker Slab | blameF (Embroidered) | Budapest 2025": {
     "cn_name": "印花板 | blameF（刺绣）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | blameF (Embroidered) | Budapest 2025",
@@ -91048,6 +91888,11 @@
     "cn_name": "印花板 | blameF | 2022年安特卫普锦标赛",
     "en_name": "Sticker Slab | blameF | Antwerp 2022",
     "name_id": 176588017
+  },
+  "Sticker Slab | blameF | Shanghai 2024": {
+    "cn_name": "印花板 | blameF | 2024年上海锦标赛",
+    "en_name": "Sticker Slab | blameF | Shanghai 2024",
+    "name_id": 176615118
   },
   "Sticker Slab | bodyy (Embroidered) | Budapest 2025": {
     "cn_name": "印花板 | bodyy（刺绣）| 2025年布达佩斯锦标赛",
@@ -91194,6 +92039,11 @@
     "en_name": "Sticker Slab | br0 (Holo) | Budapest 2025",
     "name_id": 176581729
   },
+  "Sticker Slab | br0 | Austin 2025": {
+    "cn_name": "印花板 | br0 | 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | br0 | Austin 2025",
+    "name_id": 176613518
+  },
   "Sticker Slab | br0 | Budapest 2025": {
     "cn_name": "印花板 | br0 | 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | br0 | Budapest 2025",
@@ -91203,6 +92053,11 @@
     "cn_name": "印花板 | brnz4n（刺绣）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | brnz4n (Embroidered) | Budapest 2025",
     "name_id": 176563671
+  },
+  "Sticker Slab | brnz4n (Foil) | Austin 2025": {
+    "cn_name": "印花板 | brnz4n（闪亮）| 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | brnz4n (Foil) | Austin 2025",
+    "name_id": 176614350
   },
   "Sticker Slab | brnz4n (Glitter) | Shanghai 2024": {
     "cn_name": "印花板 | brnz4n（闪耀）| 2024年上海锦标赛",
@@ -91259,6 +92114,11 @@
     "en_name": "Sticker Slab | broky (Glitter) | Paris 2023",
     "name_id": 176586623
   },
+  "Sticker Slab | broky (Glitter) | Rio 2022": {
+    "cn_name": "印花板 | broky（闪耀）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | broky (Glitter) | Rio 2022",
+    "name_id": 176617346
+  },
   "Sticker Slab | broky (Glitter) | Shanghai 2024": {
     "cn_name": "印花板 | broky（闪耀）| 2024年上海锦标赛",
     "en_name": "Sticker Slab | broky (Glitter) | Shanghai 2024",
@@ -91298,6 +92158,11 @@
     "cn_name": "印花板 | broky（金色，冠军） | 2022年安特卫普锦标赛",
     "en_name": "Sticker Slab | broky (Gold, Champion) | Antwerp 2022",
     "name_id": 176567537
+  },
+  "Sticker Slab | broky (Holo) | Antwerp 2022": {
+    "cn_name": "印花板 | broky（全息） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | broky (Holo) | Antwerp 2022",
+    "name_id": 176612965
   },
   "Sticker Slab | broky (Holo) | Austin 2025": {
     "cn_name": "印花板 | broky（全息）| 2025年奥斯汀锦标赛",
@@ -91354,10 +92219,20 @@
     "en_name": "Sticker Slab | broky | Shanghai 2024",
     "name_id": 176588563
   },
+  "Sticker Slab | buster (Foil) | Berlin 2019": {
+    "cn_name": "印花板 | buster（闪亮）| 2019年柏林锦标赛",
+    "en_name": "Sticker Slab | buster (Foil) | Berlin 2019",
+    "name_id": 176615689
+  },
   "Sticker Slab | buster (Foil) | Katowice 2019": {
     "cn_name": "印花板 | buster（闪亮）| 2019年卡托维兹锦标赛",
     "en_name": "Sticker Slab | buster (Foil) | Katowice 2019",
     "name_id": 176603496
+  },
+  "Sticker Slab | buster (Glitter) | Antwerp 2022": {
+    "cn_name": "印花板 | buster（闪耀） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | buster (Glitter) | Antwerp 2022",
+    "name_id": 176613832
   },
   "Sticker Slab | buster (Gold) | Antwerp 2022": {
     "cn_name": "印花板 | buster（金色） | 2022年安特卫普锦标赛",
@@ -91449,6 +92324,11 @@
     "en_name": "Sticker Slab | cadiaN (Glitter) | Paris 2023",
     "name_id": 176586394
   },
+  "Sticker Slab | cadiaN (Glitter) | Rio 2022": {
+    "cn_name": "印花板 | cadiaN（闪耀）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | cadiaN (Glitter) | Rio 2022",
+    "name_id": 176615807
+  },
   "Sticker Slab | cadiaN (Gold) | Paris 2023": {
     "cn_name": "印花板 | cadiaN（金色）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | cadiaN (Gold) | Paris 2023",
@@ -91464,6 +92344,11 @@
     "en_name": "Sticker Slab | cadiaN (Holo) | Paris 2023",
     "name_id": 176582810
   },
+  "Sticker Slab | cadiaN (Holo) | Rio 2022": {
+    "cn_name": "印花板 | cadiaN（全息）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | cadiaN (Holo) | Rio 2022",
+    "name_id": 176614026
+  },
   "Sticker Slab | cadiaN (Holo) | Stockholm 2021": {
     "cn_name": "印花板 | cadiaN （全息） | 2021年斯德哥尔摩锦标赛",
     "en_name": "Sticker Slab | cadiaN (Holo) | Stockholm 2021",
@@ -91473,6 +92358,11 @@
     "cn_name": "印花板 | cadiaN | 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | cadiaN | Paris 2023",
     "name_id": 176569204
+  },
+  "Sticker Slab | cadiaN | Rio 2022": {
+    "cn_name": "印花板 | cadiaN | 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | cadiaN | Rio 2022",
+    "name_id": 176614027
   },
   "Sticker Slab | cajunb (Foil) | Cologne 2015": {
     "cn_name": "印花板 | cajunb（闪亮）| 2015年科隆锦标赛",
@@ -91564,6 +92454,11 @@
     "en_name": "Sticker Slab | chelo (Gold) | Budapest 2025",
     "name_id": 176567142
   },
+  "Sticker Slab | chelo (Gold) | Copenhagen 2024": {
+    "cn_name": "印花板 | chelo（金色）| 2024年哥本哈根锦标赛",
+    "en_name": "Sticker Slab | chelo (Gold) | Copenhagen 2024",
+    "name_id": 176613250
+  },
   "Sticker Slab | chelo (Holo) | Antwerp 2022": {
     "cn_name": "印花板 | chelo（全息） | 2022年安特卫普锦标赛",
     "en_name": "Sticker Slab | chelo (Holo) | Antwerp 2022",
@@ -91624,6 +92519,11 @@
     "en_name": "Sticker Slab | chopper (Glitter) | Copenhagen 2024",
     "name_id": 176568007
   },
+  "Sticker Slab | chopper (Glitter) | Rio 2022": {
+    "cn_name": "印花板 | chopper（闪耀）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | chopper (Glitter) | Rio 2022",
+    "name_id": 176612971
+  },
   "Sticker Slab | chopper (Glitter) | Shanghai 2024": {
     "cn_name": "印花板 | chopper（闪耀）| 2024年上海锦标赛",
     "en_name": "Sticker Slab | chopper (Glitter) | Shanghai 2024",
@@ -91653,6 +92553,11 @@
     "cn_name": "印花板 | chopper（金色）| 2024年哥本哈根锦标赛",
     "en_name": "Sticker Slab | chopper (Gold) | Copenhagen 2024",
     "name_id": 176563880
+  },
+  "Sticker Slab | chopper (Gold) | Rio 2022": {
+    "cn_name": "印花板 | chopper（金色）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | chopper (Gold) | Rio 2022",
+    "name_id": 176612331
   },
   "Sticker Slab | chopper (Gold) | Shanghai 2024": {
     "cn_name": "印花板 | chopper（金色）| 2024年上海锦标赛",
@@ -91829,6 +92734,11 @@
     "en_name": "Sticker Slab | coldzera | Berlin 2019",
     "name_id": 176582470
   },
+  "Sticker Slab | coldzera | Cologne 2015": {
+    "cn_name": "印花板 | coldzera | 2015年科隆锦标赛",
+    "en_name": "Sticker Slab | coldzera | Cologne 2015",
+    "name_id": 176616202
+  },
   "Sticker Slab | coldzera | Cologne 2016": {
     "cn_name": "印花板 | coldzera | 2016年科隆锦标赛",
     "en_name": "Sticker Slab | coldzera | Cologne 2016",
@@ -91843,6 +92753,11 @@
     "cn_name": "印花板 | coldzera | 2019年卡托维兹锦标赛",
     "en_name": "Sticker Slab | coldzera | Katowice 2019",
     "name_id": 176581461
+  },
+  "Sticker Slab | coldzera | Krakow 2017": {
+    "cn_name": "印花板 | coldzera | 2017年克拉科夫锦标赛",
+    "en_name": "Sticker Slab | coldzera | Krakow 2017",
+    "name_id": 176617240
   },
   "Sticker Slab | coldzera | London 2018": {
     "cn_name": "印花板 | coldzera | 2018年伦敦锦标赛",
@@ -91944,6 +92859,11 @@
     "en_name": "Sticker Slab | dAT team | Cologne 2014",
     "name_id": 176564263
   },
+  "Sticker Slab | daps (Foil) | Cologne 2016": {
+    "cn_name": "印花板 | daps（闪亮）| 2016年科隆锦标赛",
+    "en_name": "Sticker Slab | daps (Foil) | Cologne 2016",
+    "name_id": 176614143
+  },
   "Sticker Slab | daps | Katowice 2019": {
     "cn_name": "印花板 | daps | 2019年卡托维兹锦标赛",
     "en_name": "Sticker Slab | daps | Katowice 2019",
@@ -91983,6 +92903,11 @@
     "cn_name": "印花板 | dav1deuS（闪耀）| 2022年里约热内卢锦标赛",
     "en_name": "Sticker Slab | dav1deuS (Glitter) | Rio 2022",
     "name_id": 176583032
+  },
+  "Sticker Slab | dav1deuS (Gold) | Austin 2025": {
+    "cn_name": "印花板 | dav1deuS（金色）| 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | dav1deuS (Gold) | Austin 2025",
+    "name_id": 176614153
   },
   "Sticker Slab | dav1deuS (Gold) | Budapest 2025": {
     "cn_name": "印花板 | dav1deuS（金色）| 2025年布达佩斯锦标赛",
@@ -92069,6 +92994,11 @@
     "en_name": "Sticker Slab | decenty (Gold) | Budapest 2025",
     "name_id": 176564510
   },
+  "Sticker Slab | decenty (Gold) | Copenhagen 2024": {
+    "cn_name": "印花板 | decenty（金色）| 2024年哥本哈根锦标赛",
+    "en_name": "Sticker Slab | decenty (Gold) | Copenhagen 2024",
+    "name_id": 176614046
+  },
   "Sticker Slab | decenty (Holo) | Austin 2025": {
     "cn_name": "印花板 | decenty（全息）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | decenty (Holo) | Austin 2025",
@@ -92094,10 +93024,20 @@
     "en_name": "Sticker Slab | decenty | Budapest 2025",
     "name_id": 176604722
   },
+  "Sticker Slab | degster (Glitter) | Antwerp 2022": {
+    "cn_name": "印花板 | degster（闪耀） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | degster (Glitter) | Antwerp 2022",
+    "name_id": 176617086
+  },
   "Sticker Slab | degster (Glitter) | Paris 2023": {
     "cn_name": "印花板 | degster（闪耀）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | degster (Glitter) | Paris 2023",
     "name_id": 176603958
+  },
+  "Sticker Slab | degster (Glitter) | Shanghai 2024": {
+    "cn_name": "印花板 | degster（闪耀）| 2024年上海锦标赛",
+    "en_name": "Sticker Slab | degster (Glitter) | Shanghai 2024",
+    "name_id": 176612968
   },
   "Sticker Slab | degster (Gold) | Antwerp 2022": {
     "cn_name": "印花板 | degster（金色） | 2022年安特卫普锦标赛",
@@ -92174,6 +93114,11 @@
     "en_name": "Sticker Slab | dennis (Foil) | Cologne 2015",
     "name_id": 176584549
   },
+  "Sticker Slab | dennis (Foil) | Krakow 2017": {
+    "cn_name": "印花板 | dennis（闪亮）| 2017年克拉科夫锦标赛",
+    "en_name": "Sticker Slab | dennis (Foil) | Krakow 2017",
+    "name_id": 176612972
+  },
   "Sticker Slab | dennis (Foil) | London 2018": {
     "cn_name": "印花板 | dennis（闪亮）| 2018年伦敦锦标赛",
     "en_name": "Sticker Slab | dennis (Foil) | London 2018",
@@ -92214,6 +93159,11 @@
     "en_name": "Sticker Slab | dephh | Katowice 2019",
     "name_id": 176562957
   },
+  "Sticker Slab | dephh | London 2018": {
+    "cn_name": "印花板 | dephh | 2018年伦敦锦标赛",
+    "en_name": "Sticker Slab | dephh | London 2018",
+    "name_id": 176612830
+  },
   "Sticker Slab | device (Embroidered) | Budapest 2025": {
     "cn_name": "印花板 | device（刺绣）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | device (Embroidered) | Budapest 2025",
@@ -92223,6 +93173,16 @@
     "cn_name": "印花板 | device（闪亮）| 2019年柏林锦标赛",
     "en_name": "Sticker Slab | device (Foil) | Berlin 2019",
     "name_id": 176566965
+  },
+  "Sticker Slab | device (Foil) | Boston 2018": {
+    "cn_name": "印花板 | device（闪亮）| 2018年波士顿锦标赛",
+    "en_name": "Sticker Slab | device (Foil) | Boston 2018",
+    "name_id": 176613616
+  },
+  "Sticker Slab | device (Foil) | Cologne 2015": {
+    "cn_name": "印花板 | device（闪亮）| 2015年科隆锦标赛",
+    "en_name": "Sticker Slab | device (Foil) | Cologne 2015",
+    "name_id": 176615385
   },
   "Sticker Slab | device (Foil) | Katowice 2019": {
     "cn_name": "印花板 | device（闪亮）| 2019年卡托维兹锦标赛",
@@ -92274,10 +93234,20 @@
     "en_name": "Sticker Slab | device | Katowice 2019",
     "name_id": 176589759
   },
+  "Sticker Slab | device | MLG Columbus 2016": {
+    "cn_name": "印花板 | device | 2016年 MLG 哥伦布锦标赛",
+    "en_name": "Sticker Slab | device | MLG Columbus 2016",
+    "name_id": 176612223
+  },
   "Sticker Slab | devoduvek (Foil) | Boston 2018": {
     "cn_name": "印花板 | devoduvek（闪亮）| 2018年波士顿锦标赛",
     "en_name": "Sticker Slab | devoduvek (Foil) | Boston 2018",
     "name_id": 176601630
+  },
+  "Sticker Slab | devoduvek | Boston 2018": {
+    "cn_name": "印花板 | devoduvek | 2018年波士顿锦标赛",
+    "en_name": "Sticker Slab | devoduvek | Boston 2018",
+    "name_id": 176613251
   },
   "Sticker Slab | dexter (Foil) | Berlin 2019": {
     "cn_name": "印花板 | dexter（闪亮）| 2019年柏林锦标赛",
@@ -92534,6 +93504,11 @@
     "en_name": "Sticker Slab | drop (Embroidered) | Budapest 2025",
     "name_id": 176599497
   },
+  "Sticker Slab | drop (Glitter) | Antwerp 2022": {
+    "cn_name": "印花板 | drop（闪耀） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | drop (Glitter) | Antwerp 2022",
+    "name_id": 176613521
+  },
   "Sticker Slab | drop (Glitter) | Paris 2023": {
     "cn_name": "印花板 | drop（闪耀）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | drop (Glitter) | Paris 2023",
@@ -92563,6 +93538,11 @@
     "cn_name": "印花板 | drop（全息）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | drop (Holo) | Budapest 2025",
     "name_id": 176581549
+  },
+  "Sticker Slab | drop (Holo) | Paris 2023": {
+    "cn_name": "印花板 | drop（全息）| 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | drop (Holo) | Paris 2023",
+    "name_id": 176612210
   },
   "Sticker Slab | drop (Holo) | Shanghai 2024": {
     "cn_name": "印花板 | drop（全息）| 2024年上海锦标赛",
@@ -92604,6 +93584,11 @@
     "en_name": "Sticker Slab | dumau (Foil) | Austin 2025",
     "name_id": 176583088
   },
+  "Sticker Slab | dumau (Glitter) | Copenhagen 2024": {
+    "cn_name": "印花板 | dumau（闪耀）| 2024年哥本哈根锦标赛",
+    "en_name": "Sticker Slab | dumau (Glitter) | Copenhagen 2024",
+    "name_id": 176616919
+  },
   "Sticker Slab | dumau (Gold) | Austin 2025": {
     "cn_name": "印花板 | dumau（金色）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | dumau (Gold) | Austin 2025",
@@ -92614,6 +93599,11 @@
     "en_name": "Sticker Slab | dumau (Gold) | Budapest 2025",
     "name_id": 176603947
   },
+  "Sticker Slab | dumau (Gold) | Rio 2022": {
+    "cn_name": "印花板 | dumau（金色）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | dumau (Gold) | Rio 2022",
+    "name_id": 176617031
+  },
   "Sticker Slab | dumau (Holo) | Austin 2025": {
     "cn_name": "印花板 | dumau（全息）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | dumau (Holo) | Austin 2025",
@@ -92623,6 +93613,11 @@
     "cn_name": "印花板 | dumau（全息）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | dumau (Holo) | Budapest 2025",
     "name_id": 176564078
+  },
+  "Sticker Slab | dumau (Holo) | Copenhagen 2024": {
+    "cn_name": "印花板 | dumau（全息）| 2024年哥本哈根锦标赛",
+    "en_name": "Sticker Slab | dumau (Holo) | Copenhagen 2024",
+    "name_id": 176612345
   },
   "Sticker Slab | dumau | Budapest 2025": {
     "cn_name": "印花板 | dumau | 2025年布达佩斯锦标赛",
@@ -92749,10 +93744,20 @@
     "en_name": "Sticker Slab | electronic (Foil) | Boston 2018",
     "name_id": 176588505
   },
+  "Sticker Slab | electronic (Foil) | Katowice 2019": {
+    "cn_name": "印花板 | electronic（闪亮）| 2019年卡托维兹锦标赛",
+    "en_name": "Sticker Slab | electronic (Foil) | Katowice 2019",
+    "name_id": 176617307
+  },
   "Sticker Slab | electronic (Foil) | Krakow 2017": {
     "cn_name": "印花板 | electronic（闪亮）| 2017年克拉科夫锦标赛",
     "en_name": "Sticker Slab | electronic (Foil) | Krakow 2017",
     "name_id": 176610750
+  },
+  "Sticker Slab | electronic (Foil) | London 2018": {
+    "cn_name": "印花板 | electronic（闪亮）| 2018年伦敦锦标赛",
+    "en_name": "Sticker Slab | electronic (Foil) | London 2018",
+    "name_id": 176612671
   },
   "Sticker Slab | electronic (Glitter) | Antwerp 2022": {
     "cn_name": "印花板 | electronic（闪耀） | 2022年安特卫普锦标赛",
@@ -92819,6 +93824,11 @@
     "en_name": "Sticker Slab | electronic (Holo) | Paris 2023",
     "name_id": 176569450
   },
+  "Sticker Slab | electronic (Holo) | Rio 2022": {
+    "cn_name": "印花板 | electronic（全息）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | electronic (Holo) | Rio 2022",
+    "name_id": 176615212
+  },
   "Sticker Slab | electronic | Antwerp 2022": {
     "cn_name": "印花板 | electronic | 2022年安特卫普锦标赛",
     "en_name": "Sticker Slab | electronic | Antwerp 2022",
@@ -92858,6 +93868,11 @@
     "cn_name": "印花板 | erkaSt | 2019年柏林锦标赛",
     "en_name": "Sticker Slab | erkaSt | Berlin 2019",
     "name_id": 176587664
+  },
+  "Sticker Slab | es3tag (Glitter) | Antwerp 2022": {
+    "cn_name": "印花板 | es3tag（闪耀） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | es3tag (Glitter) | Antwerp 2022",
+    "name_id": 176612917
   },
   "Sticker Slab | es3tag (Gold) | Antwerp 2022": {
     "cn_name": "印花板 | es3tag（金色） | 2022年安特卫普锦标赛",
@@ -93134,6 +94149,11 @@
     "en_name": "Sticker Slab | fame (Foil) | Austin 2025",
     "name_id": 176566689
   },
+  "Sticker Slab | fame (Glitter) | Copenhagen 2024": {
+    "cn_name": "印花板 | fame（闪耀）| 2024年哥本哈根锦标赛",
+    "en_name": "Sticker Slab | fame (Glitter) | Copenhagen 2024",
+    "name_id": 176616535
+  },
   "Sticker Slab | fame (Glitter) | Shanghai 2024": {
     "cn_name": "印花板 | fame（闪耀）| 2024年上海锦标赛",
     "en_name": "Sticker Slab | fame (Glitter) | Shanghai 2024",
@@ -93188,6 +94208,11 @@
     "cn_name": "印花板 | fame | 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | fame | Austin 2025",
     "name_id": 176587222
+  },
+  "Sticker Slab | faveN (Glitter) | Antwerp 2022": {
+    "cn_name": "印花板 | faveN（闪耀） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | faveN (Glitter) | Antwerp 2022",
+    "name_id": 176616090
   },
   "Sticker Slab | faveN (Glitter) | Rio 2022": {
     "cn_name": "印花板 | faveN（闪耀）| 2022年里约热内卢锦标赛",
@@ -93258,6 +94283,11 @@
     "cn_name": "印花板 | fer（闪亮）| 2019年柏林锦标赛",
     "en_name": "Sticker Slab | fer (Foil) | Berlin 2019",
     "name_id": 176564454
+  },
+  "Sticker Slab | fer (Foil) | Cluj-Napoca 2015": {
+    "cn_name": "印花板 | fer（闪亮）| 2015年卢日-纳波卡锦标赛",
+    "en_name": "Sticker Slab | fer (Foil) | Cluj-Napoca 2015",
+    "name_id": 176613545
   },
   "Sticker Slab | fer (Foil) | Katowice 2019": {
     "cn_name": "印花板 | fer（闪亮）| 2019年卡托维兹锦标赛",
@@ -93378,6 +94408,11 @@
     "cn_name": "印花板 | flamie | 2018年伦敦锦标赛",
     "en_name": "Sticker Slab | flamie | London 2018",
     "name_id": 176567807
+  },
+  "Sticker Slab | flamie | MLG Columbus 2016": {
+    "cn_name": "印花板 | flamie | 2016年 MLG 哥伦布锦标赛",
+    "en_name": "Sticker Slab | flamie | MLG Columbus 2016",
+    "name_id": 176613700
   },
   "Sticker Slab | floppy (Glitter) | Antwerp 2022": {
     "cn_name": "印花板 | floppy（闪耀） | 2022年安特卫普锦标赛",
@@ -93689,6 +94724,11 @@
     "en_name": "Sticker Slab | frozen (Glitter) | Copenhagen 2024",
     "name_id": 176585447
   },
+  "Sticker Slab | frozen (Glitter) | Paris 2023": {
+    "cn_name": "印花板 | frozen（闪耀）| 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | frozen (Glitter) | Paris 2023",
+    "name_id": 176616441
+  },
   "Sticker Slab | frozen (Glitter) | Rio 2022": {
     "cn_name": "印花板 | frozen（闪耀）| 2022年里约热内卢锦标赛",
     "en_name": "Sticker Slab | frozen (Glitter) | Rio 2022",
@@ -93959,6 +94999,11 @@
     "en_name": "Sticker Slab | hallzerk (Glitter) | Paris 2023",
     "name_id": 176584006
   },
+  "Sticker Slab | hallzerk (Glitter) | Shanghai 2024": {
+    "cn_name": "印花板 | hallzerk（闪耀）| 2024年上海锦标赛",
+    "en_name": "Sticker Slab | hallzerk (Glitter) | Shanghai 2024",
+    "name_id": 176614950
+  },
   "Sticker Slab | hallzerk (Gold) | Austin 2025": {
     "cn_name": "印花板 | hallzerk（金色）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | hallzerk (Gold) | Austin 2025",
@@ -94003,6 +95048,11 @@
     "cn_name": "印花板 | hallzerk | 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | hallzerk | Austin 2025",
     "name_id": 176609089
+  },
+  "Sticker Slab | hallzerk | Budapest 2025": {
+    "cn_name": "印花板 | hallzerk | 2025年布达佩斯锦标赛",
+    "en_name": "Sticker Slab | hallzerk | Budapest 2025",
+    "name_id": 176612957
   },
   "Sticker Slab | hallzerk | Paris 2023": {
     "cn_name": "印花板 | hallzerk | 2023年巴黎锦标赛",
@@ -94104,6 +95154,11 @@
     "en_name": "Sticker Slab | headtr1ck (Gold) | Budapest 2025",
     "name_id": 176604523
   },
+  "Sticker Slab | headtr1ck (Gold) | Paris 2023": {
+    "cn_name": "印花板 | headtr1ck（金色）| 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | headtr1ck (Gold) | Paris 2023",
+    "name_id": 176617118
+  },
   "Sticker Slab | headtr1ck (Holo) | Austin 2025": {
     "cn_name": "印花板 | headtr1ck（全息）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | headtr1ck (Holo) | Austin 2025",
@@ -94143,6 +95198,11 @@
     "cn_name": "印花板 | huNter（金色） | 2022年安特卫普锦标赛",
     "en_name": "Sticker Slab | huNter (Gold) | Antwerp 2022",
     "name_id": 176607589
+  },
+  "Sticker Slab | huNter (Holo) | Antwerp 2022": {
+    "cn_name": "印花板 | huNter（全息） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | huNter (Holo) | Antwerp 2022",
+    "name_id": 176614459
   },
   "Sticker Slab | huNter- (Embroidered) | Budapest 2025": {
     "cn_name": "印花板 | huNter-（刺绣）| 2025年布达佩斯锦标赛",
@@ -94364,6 +95424,11 @@
     "en_name": "Sticker Slab | iM | Copenhagen 2024",
     "name_id": 176587076
   },
+  "Sticker Slab | iM | Paris 2023": {
+    "cn_name": "印花板 | iM | 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | iM | Paris 2023",
+    "name_id": 176612177
+  },
   "Sticker Slab | iM | Rio 2022": {
     "cn_name": "印花板 | iM | 2022年里约热内卢锦标赛",
     "en_name": "Sticker Slab | iM | Rio 2022",
@@ -94403,6 +95468,11 @@
     "cn_name": "印花板 | innocent | 2017年克拉科夫锦标赛",
     "en_name": "Sticker Slab | innocent | Krakow 2017",
     "name_id": 176602756
+  },
+  "Sticker Slab | ins (Glitter) | Antwerp 2022": {
+    "cn_name": "印花板 | ins（闪耀） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | ins (Glitter) | Antwerp 2022",
+    "name_id": 176616534
   },
   "Sticker Slab | ins (Gold) | Antwerp 2022": {
     "cn_name": "印花板 | ins（金色） | 2022年安特卫普锦标赛",
@@ -94493,6 +95563,11 @@
     "cn_name": "印花板 | isak（闪耀）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | isak (Glitter) | Paris 2023",
     "name_id": 176565971
+  },
+  "Sticker Slab | isak (Glitter) | Rio 2022": {
+    "cn_name": "印花板 | isak（闪耀）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | isak (Glitter) | Rio 2022",
+    "name_id": 176614719
   },
   "Sticker Slab | isak (Gold) | Paris 2023": {
     "cn_name": "印花板 | isak（金色）| 2023年巴黎锦标赛",
@@ -94629,6 +95704,11 @@
     "en_name": "Sticker Slab | jabbi (Embroidered) | Budapest 2025",
     "name_id": 176569505
   },
+  "Sticker Slab | jabbi (Glitter) | Antwerp 2022": {
+    "cn_name": "印花板 | jabbi（闪耀） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | jabbi (Glitter) | Antwerp 2022",
+    "name_id": 176615221
+  },
   "Sticker Slab | jabbi (Glitter) | Paris 2023": {
     "cn_name": "印花板 | jabbi（闪耀）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | jabbi (Glitter) | Paris 2023",
@@ -94728,6 +95808,11 @@
     "cn_name": "印花板 | jdm64（闪亮）| 2018年波士顿锦标赛",
     "en_name": "Sticker Slab | jdm64 (Foil) | Boston 2018",
     "name_id": 176584590
+  },
+  "Sticker Slab | jdm64 (Foil) | Cluj-Napoca 2015": {
+    "cn_name": "印花板 | jdm64（闪亮）| 2015年克卢日-纳波卡锦标赛",
+    "en_name": "Sticker Slab | jdm64 (Foil) | Cluj-Napoca 2015",
+    "name_id": 176615660
   },
   "Sticker Slab | jdm64 (Foil) | Cologne 2015": {
     "cn_name": "印花板 | jdm64（闪亮）| 2015年科隆锦标赛",
@@ -95119,6 +96204,11 @@
     "en_name": "Sticker Slab | karrigan (Glitter, Champion) | Antwerp 2022",
     "name_id": 176563196
   },
+  "Sticker Slab | karrigan (Gold) | Antwerp 2022": {
+    "cn_name": "印花板 | karrigan（金色）| 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | karrigan (Gold) | Antwerp 2022",
+    "name_id": 176613032
+  },
   "Sticker Slab | karrigan (Gold) | Budapest 2025": {
     "cn_name": "印花板 | karrigan（金色）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | karrigan (Gold) | Budapest 2025",
@@ -95319,6 +96409,11 @@
     "en_name": "Sticker Slab | kennyS (Foil) | Katowice 2019",
     "name_id": 176569187
   },
+  "Sticker Slab | kennyS (Foil) | Krakow 2017": {
+    "cn_name": "印花板 | kennyS（闪亮）| 2017年克拉科夫锦标赛",
+    "en_name": "Sticker Slab | kennyS (Foil) | Krakow 2017",
+    "name_id": 176614131
+  },
   "Sticker Slab | kennyS (Foil) | London 2018": {
     "cn_name": "印花板 | kennyS（闪亮）| 2018年伦敦锦标赛",
     "en_name": "Sticker Slab | kennyS (Foil) | London 2018",
@@ -95399,6 +96494,11 @@
     "en_name": "Sticker Slab | kensizor (Holo) | Austin 2025",
     "name_id": 176590919
   },
+  "Sticker Slab | kensizor | Austin 2025": {
+    "cn_name": "印花板 | kensizor | 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | kensizor | Austin 2025",
+    "name_id": 176614178
+  },
   "Sticker Slab | kensizor | Budapest 2025": {
     "cn_name": "印花板 | kensizor | 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | kensizor | Budapest 2025",
@@ -95413,6 +96513,11 @@
     "cn_name": "印花板 | keshandr（闪亮）| 2017年克拉科夫锦标赛",
     "en_name": "Sticker Slab | keshandr (Foil) | Krakow 2017",
     "name_id": 176590359
+  },
+  "Sticker Slab | keshandr | Boston 2018": {
+    "cn_name": "印花板 | keshandr | 2018年波士顿锦标赛",
+    "en_name": "Sticker Slab | keshandr | Boston 2018",
+    "name_id": 176614171
   },
   "Sticker Slab | keshandr | Krakow 2017": {
     "cn_name": "印花板 | keshandr | 2017年克拉科夫锦标赛",
@@ -95513,6 +96618,11 @@
     "cn_name": "印花板 | kraghen（全息）| 2024年哥本哈根锦标赛",
     "en_name": "Sticker Slab | kraghen (Holo) | Copenhagen 2024",
     "name_id": 176585049
+  },
+  "Sticker Slab | kraghen | Copenhagen 2024": {
+    "cn_name": "印花板 | kraghen | 2024年哥本哈根锦标赛",
+    "en_name": "Sticker Slab | kraghen | Copenhagen 2024",
+    "name_id": 176613720
   },
   "Sticker Slab | kye (Embroidered) | Budapest 2025": {
     "cn_name": "印花板 | kye（刺绣）| 2025年布达佩斯锦标赛",
@@ -95678,6 +96788,11 @@
     "cn_name": "印花板 | latto（闪耀）| 2024年哥本哈根锦标赛",
     "en_name": "Sticker Slab | latto (Glitter) | Copenhagen 2024",
     "name_id": 176584033
+  },
+  "Sticker Slab | latto (Glitter) | Rio 2022": {
+    "cn_name": "印花板 | latto（闪耀）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | latto (Glitter) | Rio 2022",
+    "name_id": 176613833
   },
   "Sticker Slab | latto (Gold) | Budapest 2025": {
     "cn_name": "印花板 | latto（金色）| 2025年布达佩斯锦标赛",
@@ -96144,6 +97259,11 @@
     "en_name": "Sticker Slab | malbsMd | Shanghai 2024",
     "name_id": 176566034
   },
+  "Sticker Slab | markeloff (Foil) | Boston 2018": {
+    "cn_name": "印花板 | markeloff（闪亮）| 2018年波士顿锦标赛",
+    "en_name": "Sticker Slab | markeloff (Foil) | Boston 2018",
+    "name_id": 176613033
+  },
   "Sticker Slab | markeloff (Foil) | Cologne 2015": {
     "cn_name": "印花板 | markeloff（闪亮）| 2015年科隆锦标赛",
     "en_name": "Sticker Slab | markeloff (Foil) | Cologne 2015",
@@ -96284,6 +97404,11 @@
     "en_name": "Sticker Slab | mezii (Gold) | Paris 2023",
     "name_id": 176564002
   },
+  "Sticker Slab | mezii (Gold) | Rio 2022": {
+    "cn_name": "印花板 | mezii（金色）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | mezii (Gold) | Rio 2022",
+    "name_id": 176612883
+  },
   "Sticker Slab | mezii (Gold) | Shanghai 2024": {
     "cn_name": "印花板 | mezii（金色）| 2024年上海锦标赛",
     "en_name": "Sticker Slab | mezii (Gold) | Shanghai 2024",
@@ -96399,6 +97524,11 @@
     "en_name": "Sticker Slab | mir | Boston 2018",
     "name_id": 176610400
   },
+  "Sticker Slab | misutaaa (Glitter) | Antwerp 2022": {
+    "cn_name": "印花板 | misutaaa（闪耀） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | misutaaa (Glitter) | Antwerp 2022",
+    "name_id": 176613197
+  },
   "Sticker Slab | misutaaa (Gold) | Antwerp 2022": {
     "cn_name": "印花板 | misutaaa（金色） | 2022年安特卫普锦标赛",
     "en_name": "Sticker Slab | misutaaa (Gold) | Antwerp 2022",
@@ -96474,6 +97604,11 @@
     "en_name": "Sticker Slab | molodoy | Budapest 2025",
     "name_id": 176559409
   },
+  "Sticker Slab | mopoz (Glitter) | Copenhagen 2024": {
+    "cn_name": "印花板 | mopoz（闪耀）| 2024年哥本哈根锦标赛",
+    "en_name": "Sticker Slab | mopoz (Glitter) | Copenhagen 2024",
+    "name_id": 176612134
+  },
   "Sticker Slab | mopoz (Gold) | Copenhagen 2024": {
     "cn_name": "印花板 | mopoz（金色）| 2024年哥本哈根锦标赛",
     "en_name": "Sticker Slab | mopoz (Gold) | Copenhagen 2024",
@@ -96483,6 +97618,11 @@
     "cn_name": "印花板 | mopoz（全息）| 2024年哥本哈根锦标赛",
     "en_name": "Sticker Slab | mopoz (Holo) | Copenhagen 2024",
     "name_id": 176563317
+  },
+  "Sticker Slab | mou (Foil) | Atlanta 2017": {
+    "cn_name": "印花板 | mou（闪亮）| 2017年亚特兰大锦标赛",
+    "en_name": "Sticker Slab | mou (Foil) | Atlanta 2017",
+    "name_id": 176614066
   },
   "Sticker Slab | mou (Foil) | Cologne 2016": {
     "cn_name": "印花板 | mou（闪亮）| 2016年科隆锦标赛",
@@ -96523,6 +97663,11 @@
     "cn_name": "印花板 | mousesports（闪亮）| 2015年科隆锦标赛",
     "en_name": "Sticker Slab | mousesports (Foil) | Cologne 2015",
     "name_id": 176588803
+  },
+  "Sticker Slab | mousesports (Foil) | Cologne 2016": {
+    "cn_name": "印花板 | mousesports（闪亮）| 2016年科隆锦标赛",
+    "en_name": "Sticker Slab | mousesports (Foil) | Cologne 2016",
+    "name_id": 176614952
   },
   "Sticker Slab | mousesports (Holo) | Berlin 2019": {
     "cn_name": "印花板 | mousesports（全息）| 2019年柏林锦标赛",
@@ -96628,6 +97773,11 @@
     "cn_name": "印花板 | mzinho（闪亮）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | mzinho (Foil) | Austin 2025",
     "name_id": 176570248
+  },
+  "Sticker Slab | mzinho (Glitter) | Copenhagen 2024": {
+    "cn_name": "印花板 | mzinho（闪耀）| 2024年哥本哈根锦标赛",
+    "en_name": "Sticker Slab | mzinho (Glitter) | Copenhagen 2024",
+    "name_id": 176612967
   },
   "Sticker Slab | mzinho (Glitter) | Shanghai 2024": {
     "cn_name": "印花板 | mzinho（闪耀）| 2024年上海锦标赛",
@@ -96868,6 +98018,11 @@
     "cn_name": "印花板 | neaLaN（全息）| 2022年里约热内卢锦标赛",
     "en_name": "Sticker Slab | neaLaN (Holo) | Rio 2022",
     "name_id": 176587329
+  },
+  "Sticker Slab | neaLaN | Rio 2022": {
+    "cn_name": "印花板 | neaLaN | 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | neaLaN | Rio 2022",
+    "name_id": 176614272
   },
   "Sticker Slab | nettik (Embroidered) | Budapest 2025": {
     "cn_name": "印花板 | nettik（刺绣）| 2025年布达佩斯锦标赛",
@@ -97194,6 +98349,11 @@
     "en_name": "Sticker Slab | nitr0 | Katowice 2019",
     "name_id": 176603905
   },
+  "Sticker Slab | nitr0 | Rio 2022": {
+    "cn_name": "印花板 | nitr0 | 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | nitr0 | Rio 2022",
+    "name_id": 176617213
+  },
   "Sticker Slab | nota (Embroidered) | Budapest 2025": {
     "cn_name": "印花板 | nota（刺绣）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | nota (Embroidered) | Budapest 2025",
@@ -97479,6 +98639,11 @@
     "en_name": "Sticker Slab | oskar | Boston 2018",
     "name_id": 176590072
   },
+  "Sticker Slab | oskar | Krakow 2017": {
+    "cn_name": "印花板 | oskar | 2017年克拉科夫锦标赛",
+    "en_name": "Sticker Slab | oskar | Krakow 2017",
+    "name_id": 176616646
+  },
   "Sticker Slab | oskar | London 2018": {
     "cn_name": "印花板 | oskar | 2018年伦敦锦标赛",
     "en_name": "Sticker Slab | oskar | London 2018",
@@ -97679,6 +98844,11 @@
     "en_name": "Sticker Slab | paz (Foil) | London 2018",
     "name_id": 176609317
   },
+  "Sticker Slab | peet (Foil) | Cluj-Napoca 2015": {
+    "cn_name": "印花板 | peet（闪亮）| 2015年卢日-纳波卡锦标赛",
+    "en_name": "Sticker Slab | peet (Foil) | Cluj-Napoca 2015",
+    "name_id": 176616260
+  },
   "Sticker Slab | phzy (Foil) | Austin 2025": {
     "cn_name": "印花板 | phzy（闪亮）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | phzy (Foil) | Austin 2025",
@@ -97693,6 +98863,11 @@
     "cn_name": "印花板 | phzy（金色）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | phzy (Gold) | Austin 2025",
     "name_id": 176563747
+  },
+  "Sticker Slab | phzy (Holo) | Austin 2025": {
+    "cn_name": "印花板 | phzy（全息）| 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | phzy (Holo) | Austin 2025",
+    "name_id": 176615192
   },
   "Sticker Slab | phzy | Austin 2025": {
     "cn_name": "印花板 | phzy | 2025年奥斯汀锦标赛",
@@ -97758,6 +98933,11 @@
     "cn_name": "印花板 | qikert（金色）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | qikert (Gold) | Budapest 2025",
     "name_id": 176563829
+  },
+  "Sticker Slab | qikert (Gold, Champion) | Rio 2022": {
+    "cn_name": "印花板 | qikert（金色，冠军）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | qikert (Gold, Champion) | Rio 2022",
+    "name_id": 176616125
   },
   "Sticker Slab | qikert (Holo) | Antwerp 2022": {
     "cn_name": "印花板 | qikert（全息） | 2022年安特卫普锦标赛",
@@ -97883,6 +99063,11 @@
     "cn_name": "印花板 | rain（闪耀）| 2024年哥本哈根锦标赛",
     "en_name": "Sticker Slab | rain (Glitter) | Copenhagen 2024",
     "name_id": 176608432
+  },
+  "Sticker Slab | rain (Glitter) | Paris 2023": {
+    "cn_name": "印花板 | rain（闪耀）| 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | rain (Glitter) | Paris 2023",
+    "name_id": 176617218
   },
   "Sticker Slab | rain (Glitter) | Rio 2022": {
     "cn_name": "印花板 | rain（闪耀）| 2022年里约热内卢锦标赛",
@@ -98069,6 +99254,11 @@
     "en_name": "Sticker Slab | rallen (Holo) | Paris 2023",
     "name_id": 176566183
   },
+  "Sticker Slab | rallen | Paris 2023": {
+    "cn_name": "印花板 | rallen | 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | rallen | Paris 2023",
+    "name_id": 176612463
+  },
   "Sticker Slab | reck (Foil) | Austin 2025": {
     "cn_name": "印花板 | reck（闪亮）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | reck (Foil) | Austin 2025",
@@ -98179,6 +99369,11 @@
     "en_name": "Sticker Slab | rigoN (Holo) | Shanghai 2024",
     "name_id": 176584993
   },
+  "Sticker Slab | rigoN | Antwerp 2022": {
+    "cn_name": "印花板 | rigoN | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | rigoN | Antwerp 2022",
+    "name_id": 176614542
+  },
   "Sticker Slab | rigoN | Paris 2023": {
     "cn_name": "印花板 | rigoN | 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | rigoN | Paris 2023",
@@ -98208,6 +99403,11 @@
     "cn_name": "印花板 | roeJ（闪耀）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | roeJ (Glitter) | Paris 2023",
     "name_id": 176586792
+  },
+  "Sticker Slab | roeJ (Glitter) | Rio 2022": {
+    "cn_name": "印花板 | roeJ（闪耀）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | roeJ (Glitter) | Rio 2022",
+    "name_id": 176614720
   },
   "Sticker Slab | roeJ (Gold) | Paris 2023": {
     "cn_name": "印花板 | roeJ（金色）| 2023年巴黎锦标赛",
@@ -98398,6 +99598,11 @@
     "cn_name": "印花板 | ropz (Holo, Champion) | Budapest 2025",
     "en_name": "Sticker Slab | ropz (Holo, Champion) | Budapest 2025",
     "name_id": 176584047
+  },
+  "Sticker Slab | ropz | Antwerp 2022": {
+    "cn_name": "印花板 | ropz | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | ropz | Antwerp 2022",
+    "name_id": 176612936
   },
   "Sticker Slab | ropz | Austin 2025": {
     "cn_name": "印花板 | ropz | 2025年奥斯汀锦标赛",
@@ -98639,6 +99844,11 @@
     "en_name": "Sticker Slab | s1n (Embroidered) | Budapest 2025",
     "name_id": 176566419
   },
+  "Sticker Slab | s1n (Gold) | Austin 2025": {
+    "cn_name": "印花板 | s1n（金色）| 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | s1n (Gold) | Austin 2025",
+    "name_id": 176617081
+  },
   "Sticker Slab | s1n (Gold) | Budapest 2025": {
     "cn_name": "印花板 | s1n（金色）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | s1n (Gold) | Budapest 2025",
@@ -98693,6 +99903,11 @@
     "cn_name": "印花板 | saffee（闪亮）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | saffee (Foil) | Austin 2025",
     "name_id": 176611096
+  },
+  "Sticker Slab | saffee (Glitter) | Antwerp 2022": {
+    "cn_name": "印花板 | saffee（闪耀） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | saffee (Glitter) | Antwerp 2022",
+    "name_id": 176612964
   },
   "Sticker Slab | saffee (Glitter) | Paris 2023": {
     "cn_name": "印花板 | saffee（闪耀）| 2023年巴黎锦标赛",
@@ -99049,6 +100264,11 @@
     "en_name": "Sticker Slab | shox (Foil) | Cologne 2015",
     "name_id": 176584123
   },
+  "Sticker Slab | shox (Glitter) | Antwerp 2022": {
+    "cn_name": "印花板 | shox（闪耀） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | shox (Glitter) | Antwerp 2022",
+    "name_id": 176612966
+  },
   "Sticker Slab | shox (Gold) | Antwerp 2022": {
     "cn_name": "印花板 | shox（金色） | 2022年安特卫普锦标赛",
     "en_name": "Sticker Slab | shox (Gold) | Antwerp 2022",
@@ -99079,6 +100299,11 @@
     "en_name": "Sticker Slab | shox | Antwerp 2022",
     "name_id": 176584822
   },
+  "Sticker Slab | shox | Atlanta 2017": {
+    "cn_name": "印花板 | shox | 2017年亚特兰大锦标赛",
+    "en_name": "Sticker Slab | shox | Atlanta 2017",
+    "name_id": 176616460
+  },
   "Sticker Slab | shox | Berlin 2019": {
     "cn_name": "印花板 | shox | 2019年柏林锦标赛",
     "en_name": "Sticker Slab | shox | Berlin 2019",
@@ -99093,6 +100318,11 @@
     "cn_name": "印花板 | shox | 2019年卡托维兹锦标赛",
     "en_name": "Sticker Slab | shox | Katowice 2019",
     "name_id": 176610077
+  },
+  "Sticker Slab | shox | Krakow 2017": {
+    "cn_name": "印花板 | shox | 2017年克拉科夫锦标赛",
+    "en_name": "Sticker Slab | shox | Krakow 2017",
+    "name_id": 176613012
   },
   "Sticker Slab | shroud (Foil) | Krakow 2017": {
     "cn_name": "印花板 | shroud（闪亮）| 2017年克拉科夫锦标赛",
@@ -99254,6 +100484,11 @@
     "en_name": "Sticker Slab | sjuush (Embroidered) | Budapest 2025",
     "name_id": 176559455
   },
+  "Sticker Slab | sjuush (Glitter) | Antwerp 2022": {
+    "cn_name": "印花板 | sjuush（闪耀） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | sjuush (Glitter) | Antwerp 2022",
+    "name_id": 176613835
+  },
   "Sticker Slab | sjuush (Glitter) | Paris 2023": {
     "cn_name": "印花板 | sjuush（闪耀）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | sjuush (Glitter) | Paris 2023",
@@ -99344,6 +100579,11 @@
     "en_name": "Sticker Slab | sk0R (Holo) | Paris 2023",
     "name_id": 176559342
   },
+  "Sticker Slab | sk0R (Holo) | Rio 2022": {
+    "cn_name": "印花板 | sk0R（全息）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | sk0R (Holo) | Rio 2022",
+    "name_id": 176613692
+  },
   "Sticker Slab | sk0R | Budapest 2025": {
     "cn_name": "印花板 | sk0R | 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | sk0R | Budapest 2025",
@@ -99419,6 +100659,11 @@
     "en_name": "Sticker Slab | slaxz- (Foil) | Austin 2025",
     "name_id": 176570740
   },
+  "Sticker Slab | slaxz- (Glitter) | Rio 2022": {
+    "cn_name": "印花板 | slaxz-（闪耀）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | slaxz- (Glitter) | Rio 2022",
+    "name_id": 176614905
+  },
   "Sticker Slab | slaxz- (Gold) | Austin 2025": {
     "cn_name": "印花板 | slaxz-（金色）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | slaxz- (Gold) | Austin 2025",
@@ -99429,6 +100674,11 @@
     "en_name": "Sticker Slab | slaxz- (Gold) | Budapest 2025",
     "name_id": 176606723
   },
+  "Sticker Slab | slaxz- (Holo) | Austin 2025": {
+    "cn_name": "印花板 | slaxz-（全息）| 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | slaxz- (Holo) | Austin 2025",
+    "name_id": 176612851
+  },
   "Sticker Slab | slaxz- (Holo) | Budapest 2025": {
     "cn_name": "印花板 | slaxz-（全息）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | slaxz- (Holo) | Budapest 2025",
@@ -99438,6 +100688,16 @@
     "cn_name": "印花板 | slaxz-（全息）| 2022年里约热内卢锦标赛",
     "en_name": "Sticker Slab | slaxz- (Holo) | Rio 2022",
     "name_id": 176604697
+  },
+  "Sticker Slab | slaxz- | Austin 2025": {
+    "cn_name": "印花板 | slaxz- | 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | slaxz- | Austin 2025",
+    "name_id": 176617206
+  },
+  "Sticker Slab | slaxz- | Budapest 2025": {
+    "cn_name": "印花板 | slaxz- | 2025年布达佩斯锦标赛",
+    "en_name": "Sticker Slab | slaxz- | Budapest 2025",
+    "name_id": 176612361
   },
   "Sticker Slab | smooya (Foil) | Katowice 2019": {
     "cn_name": "印花板 | smooya（闪亮）| 2019年卡托维兹锦标赛",
@@ -99519,6 +100779,11 @@
     "en_name": "Sticker Slab | spooke (Gold) | Austin 2025",
     "name_id": 176570285
   },
+  "Sticker Slab | spooke | Austin 2025": {
+    "cn_name": "印花板 | spooke | 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | spooke | Austin 2025",
+    "name_id": 176614907
+  },
   "Sticker Slab | stadodo (Glitter) | Copenhagen 2024": {
     "cn_name": "印花板 | stadodo（闪耀）| 2024年哥本哈根锦标赛",
     "en_name": "Sticker Slab | stadodo (Glitter) | Copenhagen 2024",
@@ -99598,6 +100863,11 @@
     "cn_name": "印花板 | stanislaw | 2018年伦敦锦标赛",
     "en_name": "Sticker Slab | stanislaw | London 2018",
     "name_id": 176603795
+  },
+  "Sticker Slab | stavn (Glitter) | Antwerp 2022": {
+    "cn_name": "印花板 | stavn（闪耀） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | stavn (Glitter) | Antwerp 2022",
+    "name_id": 176617155
   },
   "Sticker Slab | stavn (Glitter) | Paris 2023": {
     "cn_name": "印花板 | stavn（闪耀）| 2023年巴黎锦标赛",
@@ -99714,6 +100984,11 @@
     "en_name": "Sticker Slab | tN1R (Gold) | Austin 2025",
     "name_id": 176568973
   },
+  "Sticker Slab | tN1R (Holo) | Austin 2025": {
+    "cn_name": "印花板 | tN1R（全息）| 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | tN1R (Holo) | Austin 2025",
+    "name_id": 176616461
+  },
   "Sticker Slab | tN1R | Austin 2025": {
     "cn_name": "印花板 | tN1R | 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | tN1R | Austin 2025",
@@ -99824,6 +101099,11 @@
     "en_name": "Sticker Slab | tiziaN (Holo) | Antwerp 2022",
     "name_id": 176589761
   },
+  "Sticker Slab | tiziaN | Antwerp 2022": {
+    "cn_name": "印花板 | tiziaN | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | tiziaN | Antwerp 2022",
+    "name_id": 176612813
+  },
   "Sticker Slab | tonyblack (Foil) | Katowice 2019": {
     "cn_name": "印花板 | tonyblack（闪亮）| 2019年卡托维兹锦标赛",
     "en_name": "Sticker Slab | tonyblack (Foil) | Katowice 2019",
@@ -99924,6 +101204,11 @@
     "en_name": "Sticker Slab | torzsi | Budapest 2025",
     "name_id": 176559605
   },
+  "Sticker Slab | torzsi | Copenhagen 2024": {
+    "cn_name": "印花板 | torzsi | 2024年哥本哈根锦标赛",
+    "en_name": "Sticker Slab | torzsi | Copenhagen 2024",
+    "name_id": 176613400
+  },
   "Sticker Slab | torzsi | Paris 2023": {
     "cn_name": "印花板 | torzsi | 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | torzsi | Paris 2023",
@@ -100019,6 +101304,16 @@
     "en_name": "Sticker Slab | v$m | Paris 2023",
     "name_id": 176608038
   },
+  "Sticker Slab | v4lde (Glitter) | Rio 2022": {
+    "cn_name": "印花板 | v4lde（闪耀）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | v4lde (Glitter) | Rio 2022",
+    "name_id": 176614718
+  },
+  "Sticker Slab | v4lde (Gold) | Rio 2022": {
+    "cn_name": "印花板 | v4lde（金色）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | v4lde (Gold) | Rio 2022",
+    "name_id": 176613650
+  },
   "Sticker Slab | v4lde | Boston 2018": {
     "cn_name": "印花板 | v4lde | 2018年波士顿锦标赛",
     "en_name": "Sticker Slab | v4lde | Boston 2018",
@@ -100094,6 +101389,11 @@
     "en_name": "Sticker Slab | vexite (Holo) | Paris 2023",
     "name_id": 176604830
   },
+  "Sticker Slab | vexite (Holo) | Rio 2022": {
+    "cn_name": "印花板 | vexite（全息）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | vexite (Holo) | Rio 2022",
+    "name_id": 176616091
+  },
   "Sticker Slab | vexite | Budapest 2025": {
     "cn_name": "印花板 | vexite | 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | vexite | Budapest 2025",
@@ -100143,6 +101443,11 @@
     "cn_name": "印花板 | w0nderful（闪耀）| 2024年哥本哈根锦标赛",
     "en_name": "Sticker Slab | w0nderful (Glitter) | Copenhagen 2024",
     "name_id": 176608735
+  },
+  "Sticker Slab | w0nderful (Glitter) | Rio 2022": {
+    "cn_name": "印花板 | w0nderful（闪耀）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | w0nderful (Glitter) | Rio 2022",
+    "name_id": 176613839
   },
   "Sticker Slab | w0nderful (Glitter) | Shanghai 2024": {
     "cn_name": "印花板 | w0nderful（闪耀）| 2024年上海锦标赛",
@@ -100239,6 +101544,11 @@
     "en_name": "Sticker Slab | wayLander (Foil) | Katowice 2019",
     "name_id": 176564267
   },
+  "Sticker Slab | wayLander (Gold) | Katowice 2019": {
+    "cn_name": "印花板 | wayLander（金色）| 2019年卡托维兹锦标赛",
+    "en_name": "Sticker Slab | wayLander (Gold) | Katowice 2019",
+    "name_id": 176612836
+  },
   "Sticker Slab | wayLander | Atlanta 2017": {
     "cn_name": "印花板 | wayLander | 2017年亚特兰大锦标赛",
     "en_name": "Sticker Slab | wayLander | Atlanta 2017",
@@ -100278,6 +101588,11 @@
     "cn_name": "印花板 | westmelon（金色）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | westmelon (Gold) | Austin 2025",
     "name_id": 176567867
+  },
+  "Sticker Slab | westmelon (Gold) | Budapest 2025": {
+    "cn_name": "印花板 | westmelon（金色）| 2025年布达佩斯锦标赛",
+    "en_name": "Sticker Slab | westmelon (Gold) | Budapest 2025",
+    "name_id": 176612649
   },
   "Sticker Slab | westmelon (Holo) | Budapest 2025": {
     "cn_name": "印花板 | westmelon（全息）| 2025年布达佩斯锦标赛",
@@ -100539,6 +101854,11 @@
     "en_name": "Sticker Slab | xfl0ud (Foil) | Austin 2025",
     "name_id": 176567592
   },
+  "Sticker Slab | xfl0ud (Glitter) | Antwerp 2022": {
+    "cn_name": "印花板 | xfl0ud（闪耀） | 2022年安特卫普锦标赛",
+    "en_name": "Sticker Slab | xfl0ud (Glitter) | Antwerp 2022",
+    "name_id": 176616217
+  },
   "Sticker Slab | xfl0ud (Gold) | Antwerp 2022": {
     "cn_name": "印花板 | xfl0ud（金色） | 2022年安特卫普锦标赛",
     "en_name": "Sticker Slab | xfl0ud (Gold) | Antwerp 2022",
@@ -100584,6 +101904,11 @@
     "en_name": "Sticker Slab | xms (Foil) | Boston 2018",
     "name_id": 176607948
   },
+  "Sticker Slab | xms | Boston 2018": {
+    "cn_name": "印花板 | xms | 2018年波士顿锦标赛",
+    "en_name": "Sticker Slab | xms | Boston 2018",
+    "name_id": 176616930
+  },
   "Sticker Slab | xsepower (Foil) | Berlin 2019": {
     "cn_name": "印花板 | xsepower（闪亮）| 2019年柏林锦标赛",
     "en_name": "Sticker Slab | xsepower (Foil) | Berlin 2019",
@@ -100599,6 +101924,11 @@
     "en_name": "Sticker Slab | xseveN (Foil) | Berlin 2019",
     "name_id": 176603367
   },
+  "Sticker Slab | xseveN (Foil) | Katowice 2019": {
+    "cn_name": "印花板 | xseveN（闪亮）| 2019年卡托维兹锦标赛",
+    "en_name": "Sticker Slab | xseveN (Foil) | Katowice 2019",
+    "name_id": 176612691
+  },
   "Sticker Slab | xseveN (Gold) | Katowice 2019": {
     "cn_name": "印花板 | xseveN（金色）| 2019年卡托维兹锦标赛",
     "en_name": "Sticker Slab | xseveN (Gold) | Katowice 2019",
@@ -100613,6 +101943,11 @@
     "cn_name": "印花板 | xseveN | 2019年卡托维兹锦标赛",
     "en_name": "Sticker Slab | xseveN | Katowice 2019",
     "name_id": 176570130
+  },
+  "Sticker Slab | yam (Foil) | Cologne 2015": {
+    "cn_name": "印花板 | yam（闪亮）| 2015年科隆锦标赛",
+    "en_name": "Sticker Slab | yam (Foil) | Cologne 2015",
+    "name_id": 176615386
   },
   "Sticker Slab | yuurih (Embroidered) | Budapest 2025": {
     "cn_name": "印花板 | yuurih（刺绣）| 2025年布达佩斯锦标赛",
@@ -100673,6 +102008,11 @@
     "cn_name": "印花板 | yuurih（金色）| 2023年巴黎锦标赛",
     "en_name": "Sticker Slab | yuurih (Gold) | Paris 2023",
     "name_id": 176569643
+  },
+  "Sticker Slab | yuurih (Gold) | Rio 2022": {
+    "cn_name": "印花板 | yuurih（金色）| 2022年里约热内卢锦标赛",
+    "en_name": "Sticker Slab | yuurih (Gold) | Rio 2022",
+    "name_id": 176616027
   },
   "Sticker Slab | yuurih (Holo) | Antwerp 2022": {
     "cn_name": "印花板 | yuurih（全息） | 2022年安特卫普锦标赛",
@@ -100753,6 +102093,11 @@
     "cn_name": "印花板 | z4KR（刺绣）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | z4KR (Embroidered) | Budapest 2025",
     "name_id": 176562095
+  },
+  "Sticker Slab | z4KR (Foil) | Austin 2025": {
+    "cn_name": "印花板 | z4KR（闪亮）| 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | z4KR (Foil) | Austin 2025",
+    "name_id": 176616485
   },
   "Sticker Slab | z4KR (Glitter) | Copenhagen 2024": {
     "cn_name": "印花板 | z4KR（闪耀）| 2024年哥本哈根锦标赛",
@@ -100994,6 +102339,11 @@
     "en_name": "Sticker Slab | zorte (Gold) | Austin 2025",
     "name_id": 176586889
   },
+  "Sticker Slab | zorte (Gold) | Paris 2023": {
+    "cn_name": "印花板 | zorte（金色）| 2023年巴黎锦标赛",
+    "en_name": "Sticker Slab | zorte (Gold) | Paris 2023",
+    "name_id": 176613490
+  },
   "Sticker Slab | zorte (Holo) | Austin 2025": {
     "cn_name": "印花板 | zorte（全息）| 2025年奥斯汀锦标赛",
     "en_name": "Sticker Slab | zorte (Holo) | Austin 2025",
@@ -101063,6 +102413,11 @@
     "cn_name": "印花板 | zweih（金色）| 2025年布达佩斯锦标赛",
     "en_name": "Sticker Slab | zweih (Gold) | Budapest 2025",
     "name_id": 176561089
+  },
+  "Sticker Slab | zweih (Holo) | Austin 2025": {
+    "cn_name": "印花板 | zweih（全息）| 2025年奥斯汀锦标赛",
+    "en_name": "Sticker Slab | zweih (Holo) | Austin 2025",
+    "name_id": 176615213
   },
   "Sticker Slab | zweih (Holo) | Budapest 2025": {
     "cn_name": "印花板 | zweih（全息）| 2025年布达佩斯锦标赛",
@@ -152699,10 +154054,20 @@
     "en_name": "★ Driver Gloves | Brocade Crane (Field-Tested)",
     "name_id": 176612065
   },
+  "★ Driver Gloves | Brocade Crane (Minimal Wear)": {
+    "cn_name": "驾驶手套（★） | Brocade Crane (略有磨损)",
+    "en_name": "★ Driver Gloves | Brocade Crane (Minimal Wear)",
+    "name_id": 176612388
+  },
   "★ Driver Gloves | Brocade Crane (Well-Worn)": {
     "cn_name": "驾驶手套（★） | Brocade Crane (破损不堪)",
     "en_name": "★ Driver Gloves | Brocade Crane (Well-Worn)",
     "name_id": 176612104
+  },
+  "★ Driver Gloves | Brocade Flowers (Battle-Scarred)": {
+    "cn_name": "驾驶手套（★） | Brocade Flowers (战痕累累)",
+    "en_name": "★ Driver Gloves | Brocade Flowers (Battle-Scarred)",
+    "name_id": 176612378
   },
   "★ Driver Gloves | Brocade Flowers (Field-Tested)": {
     "cn_name": "驾驶手套（★） | Brocade Flowers (久经沙场)",
@@ -152713,6 +154078,11 @@
     "cn_name": "驾驶手套（★） | Brocade Flowers (略有磨损)",
     "en_name": "★ Driver Gloves | Brocade Flowers (Minimal Wear)",
     "name_id": 176612071
+  },
+  "★ Driver Gloves | Brocade Flowers (Well-Worn)": {
+    "cn_name": "驾驶手套（★） | Brocade Flowers (破损不堪)",
+    "en_name": "★ Driver Gloves | Brocade Flowers (Well-Worn)",
+    "name_id": 176612351
   },
   "★ Driver Gloves | Convoy (Battle-Scarred)": {
     "en_name": "★ Driver Gloves | Convoy (Battle-Scarred)",
@@ -152799,15 +154169,50 @@
     "en_name": "★ Driver Gloves | Dragon Fists (Field-Tested)",
     "name_id": 176611921
   },
+  "★ Driver Gloves | Dragon Fists (Minimal Wear)": {
+    "cn_name": "驾驶手套（★） | Dragon Fists (略有磨损)",
+    "en_name": "★ Driver Gloves | Dragon Fists (Minimal Wear)",
+    "name_id": 176612616
+  },
   "★ Driver Gloves | Dragon Fists (Well-Worn)": {
     "cn_name": "驾驶手套（★） | Dragon Fists (破损不堪)",
     "en_name": "★ Driver Gloves | Dragon Fists (Well-Worn)",
     "name_id": 176611919
   },
+  "★ Driver Gloves | Garden (Battle-Scarred)": {
+    "cn_name": "驾驶手套（★） | Garden (战痕累累)",
+    "en_name": "★ Driver Gloves | Garden (Battle-Scarred)",
+    "name_id": 176612146
+  },
   "★ Driver Gloves | Garden (Field-Tested)": {
     "cn_name": "驾驶手套（★） | Garden (久经沙场)",
     "en_name": "★ Driver Gloves | Garden (Field-Tested)",
     "name_id": 176612128
+  },
+  "★ Driver Gloves | Garden (Minimal Wear)": {
+    "cn_name": "驾驶手套（★） | 花园 (略有磨损)",
+    "en_name": "★ Driver Gloves | Garden (Minimal Wear)",
+    "name_id": 176612379
+  },
+  "★ Driver Gloves | Garden (Well-Worn)": {
+    "cn_name": "驾驶手套（★） | Garden (破损不堪)",
+    "en_name": "★ Driver Gloves | Garden (Well-Worn)",
+    "name_id": 176612436
+  },
+  "★ Driver Gloves | Hand Sweaters (Battle-Scarred)": {
+    "cn_name": "驾驶手套（★） | Hand Sweaters (战痕累累)",
+    "en_name": "★ Driver Gloves | Hand Sweaters (Battle-Scarred)",
+    "name_id": 176612352
+  },
+  "★ Driver Gloves | Hand Sweaters (Field-Tested)": {
+    "cn_name": "驾驶手套（★） | Hand Sweaters (久经沙场)",
+    "en_name": "★ Driver Gloves | Hand Sweaters (Field-Tested)",
+    "name_id": 176612160
+  },
+  "★ Driver Gloves | Hand Sweaters (Minimal Wear)": {
+    "cn_name": "驾驶手套（★） | Hand Sweaters (略有磨损)",
+    "en_name": "★ Driver Gloves | Hand Sweaters (Minimal Wear)",
+    "name_id": 176612411
   },
   "★ Driver Gloves | Hand Sweaters (Well-Worn)": {
     "cn_name": "驾驶手套（★） | Hand Sweaters (破损不堪)",
@@ -152919,10 +154324,25 @@
     "en_name": "★ Driver Gloves | Plum Quill (Battle-Scarred)",
     "name_id": 176611947
   },
+  "★ Driver Gloves | Plum Quill (Factory New)": {
+    "cn_name": "驾驶手套（★） | 蓝紫点子 (崭新出厂)",
+    "en_name": "★ Driver Gloves | Plum Quill (Factory New)",
+    "name_id": 176616511
+  },
   "★ Driver Gloves | Plum Quill (Field-Tested)": {
     "cn_name": "驾驶手套（★） | Plum Quill (久经沙场)",
     "en_name": "★ Driver Gloves | Plum Quill (Field-Tested)",
     "name_id": 176611993
+  },
+  "★ Driver Gloves | Plum Quill (Minimal Wear)": {
+    "cn_name": "驾驶手套（★） | Plum Quill (略有磨损)",
+    "en_name": "★ Driver Gloves | Plum Quill (Minimal Wear)",
+    "name_id": 176612192
+  },
+  "★ Driver Gloves | Plum Quill (Well-Worn)": {
+    "cn_name": "驾驶手套（★） | Plum Quill (破损不堪)",
+    "en_name": "★ Driver Gloves | Plum Quill (Well-Worn)",
+    "name_id": 176612363
   },
   "★ Driver Gloves | Queen Jaguar (Battle-Scarred)": {
     "en_name": "★ Driver Gloves | Queen Jaguar (Battle-Scarred)",
@@ -152999,6 +154419,11 @@
     "cn_name": "驾驶手套（★） | 绯红列赞 (破损不堪)",
     "name_id": 176209985
   },
+  "★ Driver Gloves | Seigaiha (Battle-Scarred)": {
+    "cn_name": "驾驶手套（★） | Seigaiha (战痕累累)",
+    "en_name": "★ Driver Gloves | Seigaiha (Battle-Scarred)",
+    "name_id": 176612394
+  },
   "★ Driver Gloves | Seigaiha (Field-Tested)": {
     "cn_name": "驾驶手套（★） | Seigaiha (久经沙场)",
     "en_name": "★ Driver Gloves | Seigaiha (Field-Tested)",
@@ -153039,10 +154464,25 @@
     "cn_name": "驾驶手套（★） | 雪豹 (破损不堪)",
     "name_id": 176209635
   },
+  "★ Driver Gloves | Wave Chaser (Battle-Scarred)": {
+    "cn_name": "驾驶手套（★） | Wave Chaser (战痕累累)",
+    "en_name": "★ Driver Gloves | Wave Chaser (Battle-Scarred)",
+    "name_id": 176612157
+  },
   "★ Driver Gloves | Wave Chaser (Field-Tested)": {
     "cn_name": "驾驶手套（★） | Wave Chaser (久经沙场)",
     "en_name": "★ Driver Gloves | Wave Chaser (Field-Tested)",
     "name_id": 176612022
+  },
+  "★ Driver Gloves | Wave Chaser (Minimal Wear)": {
+    "cn_name": "驾驶手套（★） | Wave Chaser (略有磨损)",
+    "en_name": "★ Driver Gloves | Wave Chaser (Minimal Wear)",
+    "name_id": 176612385
+  },
+  "★ Driver Gloves | Wave Chaser (Well-Worn)": {
+    "cn_name": "驾驶手套（★） | Wave Chaser (破损不堪)",
+    "en_name": "★ Driver Gloves | Wave Chaser (Well-Worn)",
+    "name_id": 176612164
   },
   "★ Falchion Knife": {
     "en_name": "★ Falchion Knife",
@@ -159034,10 +160474,40 @@
     "cn_name": "骷髅匕首（★） | 都市伪装 (破损不堪)",
     "name_id": 176097457
   },
+  "★ Specialist Gloves | Big Swell (Battle-Scarred)": {
+    "cn_name": "专业手套（★） | Big Swell (战痕累累)",
+    "en_name": "★ Specialist Gloves | Big Swell (Battle-Scarred)",
+    "name_id": 176612360
+  },
+  "★ Specialist Gloves | Big Swell (Field-Tested)": {
+    "cn_name": "专业手套（★） | Big Swell (久经沙场)",
+    "en_name": "★ Specialist Gloves | Big Swell (Field-Tested)",
+    "name_id": 176612182
+  },
+  "★ Specialist Gloves | Big Swell (Minimal Wear)": {
+    "cn_name": "专业手套（★） | Big Swell (略有磨损)",
+    "en_name": "★ Specialist Gloves | Big Swell (Minimal Wear)",
+    "name_id": 176612711
+  },
   "★ Specialist Gloves | Big Swell (Well-Worn)": {
     "cn_name": "专业手套（★） | Big Swell (破损不堪)",
     "en_name": "★ Specialist Gloves | Big Swell (Well-Worn)",
     "name_id": 176612073
+  },
+  "★ Specialist Gloves | Blackbook (Battle-Scarred)": {
+    "cn_name": "专业手套（★） | Blackbook (战痕累累)",
+    "en_name": "★ Specialist Gloves | Blackbook (Battle-Scarred)",
+    "name_id": 176612155
+  },
+  "★ Specialist Gloves | Blackbook (Field-Tested)": {
+    "cn_name": "专业手套（★） | Blackbook (久经沙场)",
+    "en_name": "★ Specialist Gloves | Blackbook (Field-Tested)",
+    "name_id": 176612135
+  },
+  "★ Specialist Gloves | Blackbook (Minimal Wear)": {
+    "cn_name": "专业手套（★） | Blackbook (略有磨损)",
+    "en_name": "★ Specialist Gloves | Blackbook (Minimal Wear)",
+    "name_id": 176612946
   },
   "★ Specialist Gloves | Blackbook (Well-Worn)": {
     "cn_name": "专业手套（★） | Blackbook (破损不堪)",
@@ -159079,6 +160549,11 @@
     "en_name": "★ Specialist Gloves | Chocolate Chesterfield (Field-Tested)",
     "name_id": 176611941
   },
+  "★ Specialist Gloves | Chocolate Chesterfield (Minimal Wear)": {
+    "cn_name": "专业手套（★） | Chocolate Chesterfield (略有磨损)",
+    "en_name": "★ Specialist Gloves | Chocolate Chesterfield (Minimal Wear)",
+    "name_id": 176612179
+  },
   "★ Specialist Gloves | Chocolate Chesterfield (Well-Worn)": {
     "cn_name": "专业手套（★） | Chocolate Chesterfield (破损不堪)",
     "en_name": "★ Specialist Gloves | Chocolate Chesterfield (Well-Worn)",
@@ -159088,6 +160563,21 @@
     "cn_name": "专业手套（★） | Cloud Chaser (战痕累累)",
     "en_name": "★ Specialist Gloves | Cloud Chaser (Battle-Scarred)",
     "name_id": 176611933
+  },
+  "★ Specialist Gloves | Cloud Chaser (Field-Tested)": {
+    "cn_name": "专业手套（★） | Cloud Chaser (久经沙场)",
+    "en_name": "★ Specialist Gloves | Cloud Chaser (Field-Tested)",
+    "name_id": 176612260
+  },
+  "★ Specialist Gloves | Cloud Chaser (Minimal Wear)": {
+    "cn_name": "专业手套（★） | 青云狩 (略有磨损)",
+    "en_name": "★ Specialist Gloves | Cloud Chaser (Minimal Wear)",
+    "name_id": 176612970
+  },
+  "★ Specialist Gloves | Cloud Chaser (Well-Worn)": {
+    "cn_name": "专业手套（★） | Cloud Chaser (破损不堪)",
+    "en_name": "★ Specialist Gloves | Cloud Chaser (Well-Worn)",
+    "name_id": 176612693
   },
   "★ Specialist Gloves | Crimson Kimono (Battle-Scarred)": {
     "en_name": "★ Specialist Gloves | Crimson Kimono (Battle-Scarred)",
@@ -159269,6 +160759,21 @@
     "en_name": "★ Specialist Gloves | Lime Polycam (Battle-Scarred)",
     "name_id": 176611902
   },
+  "★ Specialist Gloves | Lime Polycam (Field-Tested)": {
+    "cn_name": "专业手套（★） | Lime Polycam (久经沙场)",
+    "en_name": "★ Specialist Gloves | Lime Polycam (Field-Tested)",
+    "name_id": 176612151
+  },
+  "★ Specialist Gloves | Lime Polycam (Minimal Wear)": {
+    "cn_name": "专业手套（★） | Lime Polycam (略有磨损)",
+    "en_name": "★ Specialist Gloves | Lime Polycam (Minimal Wear)",
+    "name_id": 176613721
+  },
+  "★ Specialist Gloves | Lime Polycam (Well-Worn)": {
+    "cn_name": "专业手套（★） | Lime Polycam (破损不堪)",
+    "en_name": "★ Specialist Gloves | Lime Polycam (Well-Worn)",
+    "name_id": 176612534
+  },
   "★ Specialist Gloves | Lt. Commander (Battle-Scarred)": {
     "en_name": "★ Specialist Gloves | Lt. Commander (Battle-Scarred)",
     "cn_name": "专业手套（★） | 陆军少尉长官 (战痕累累)",
@@ -159344,10 +160849,25 @@
     "cn_name": "专业手套（★） | 大腕 (破损不堪)",
     "name_id": 175967644
   },
+  "★ Specialist Gloves | Pillow Punchers (Battle-Scarred)": {
+    "cn_name": "专业手套（★） | Pillow Punchers (战痕累累)",
+    "en_name": "★ Specialist Gloves | Pillow Punchers (Battle-Scarred)",
+    "name_id": 176612356
+  },
+  "★ Specialist Gloves | Pillow Punchers (Field-Tested)": {
+    "cn_name": "专业手套（★） | Pillow Punchers (久经沙场)",
+    "en_name": "★ Specialist Gloves | Pillow Punchers (Field-Tested)",
+    "name_id": 176612353
+  },
   "★ Specialist Gloves | Pillow Punchers (Minimal Wear)": {
     "cn_name": "专业手套（★） | Pillow Punchers (略有磨损)",
     "en_name": "★ Specialist Gloves | Pillow Punchers (Minimal Wear)",
     "name_id": 176612059
+  },
+  "★ Specialist Gloves | Pillow Punchers (Well-Worn)": {
+    "cn_name": "专业手套（★） | Pillow Punchers (破损不堪)",
+    "en_name": "★ Specialist Gloves | Pillow Punchers (Well-Worn)",
+    "name_id": 176612228
   },
   "★ Specialist Gloves | Sunburst (Battle-Scarred)": {
     "cn_name": "专业手套（★） | Sunburst (战痕累累)",
@@ -159363,6 +160883,11 @@
     "cn_name": "专业手套（★） | Sunburst (略有磨损)",
     "en_name": "★ Specialist Gloves | Sunburst (Minimal Wear)",
     "name_id": 176612078
+  },
+  "★ Specialist Gloves | Sunburst (Well-Worn)": {
+    "cn_name": "专业手套（★） | Sunburst (破损不堪)",
+    "en_name": "★ Specialist Gloves | Sunburst (Well-Worn)",
+    "name_id": 176612376
   },
   "★ Specialist Gloves | Tiger Strike (Battle-Scarred)": {
     "en_name": "★ Specialist Gloves | Tiger Strike (Battle-Scarred)",
@@ -159464,10 +160989,20 @@
     "cn_name": "运动手套（★） | 大型猎物 (破损不堪)",
     "name_id": 176209748
   },
+  "★ Sport Gloves | Blaze (Battle-Scarred)": {
+    "cn_name": "运动手套（★） | 炽烈之炎 (战痕累累)",
+    "en_name": "★ Sport Gloves | Blaze (Battle-Scarred)",
+    "name_id": 176612222
+  },
   "★ Sport Gloves | Blaze (Field-Tested)": {
     "cn_name": "运动手套（★） | 炽烈之炎 (久经沙场)",
     "en_name": "★ Sport Gloves | Blaze (Field-Tested)",
     "name_id": 176612099
+  },
+  "★ Sport Gloves | Blaze (Minimal Wear)": {
+    "cn_name": "运动手套（★） | 炽烈之炎 (略有磨损)",
+    "en_name": "★ Sport Gloves | Blaze (Minimal Wear)",
+    "name_id": 176612380
   },
   "★ Sport Gloves | Blaze (Well-Worn)": {
     "cn_name": "运动手套（★） | 炽烈之炎 (破损不堪)",
@@ -159509,6 +161044,11 @@
     "en_name": "★ Sport Gloves | Creme Pinstripe (Field-Tested)",
     "name_id": 176611898
   },
+  "★ Sport Gloves | Creme Pinstripe (Minimal Wear)": {
+    "cn_name": "运动手套（★） | Creme Pinstripe (略有磨损)",
+    "en_name": "★ Sport Gloves | Creme Pinstripe (Minimal Wear)",
+    "name_id": 176612384
+  },
   "★ Sport Gloves | Creme Pinstripe (Well-Worn)": {
     "cn_name": "运动手套（★） | Creme Pinstripe (破损不堪)",
     "en_name": "★ Sport Gloves | Creme Pinstripe (Well-Worn)",
@@ -159523,6 +161063,11 @@
     "cn_name": "运动手套（★） | Frosty (久经沙场)",
     "en_name": "★ Sport Gloves | Frosty (Field-Tested)",
     "name_id": 176612050
+  },
+  "★ Sport Gloves | Frosty (Minimal Wear)": {
+    "cn_name": "运动手套（★） | Frosty (略有磨损)",
+    "en_name": "★ Sport Gloves | Frosty (Minimal Wear)",
+    "name_id": 176612621
   },
   "★ Sport Gloves | Frosty (Well-Worn)": {
     "cn_name": "运动手套（★） | Frosty (破损不堪)",
@@ -159579,10 +161124,25 @@
     "cn_name": "运动手套（★） | 夜行衣 (破损不堪)",
     "name_id": 176209769
   },
+  "★ Sport Gloves | Occult (Battle-Scarred)": {
+    "cn_name": "运动手套（★） | Occult (战痕累累)",
+    "en_name": "★ Sport Gloves | Occult (Battle-Scarred)",
+    "name_id": 176612424
+  },
   "★ Sport Gloves | Occult (Field-Tested)": {
     "cn_name": "运动手套（★） | Occult (久经沙场)",
     "en_name": "★ Sport Gloves | Occult (Field-Tested)",
     "name_id": 176611985
+  },
+  "★ Sport Gloves | Occult (Minimal Wear)": {
+    "cn_name": "运动手套（★） | 隐知 (略有磨损)",
+    "en_name": "★ Sport Gloves | Occult (Minimal Wear)",
+    "name_id": 176612460
+  },
+  "★ Sport Gloves | Occult (Well-Worn)": {
+    "cn_name": "运动手套（★） | Occult (破损不堪)",
+    "en_name": "★ Sport Gloves | Occult (Well-Worn)",
+    "name_id": 176612544
   },
   "★ Sport Gloves | Omega (Battle-Scarred)": {
     "en_name": "★ Sport Gloves | Omega (Battle-Scarred)",
@@ -159634,10 +161194,20 @@
     "cn_name": "运动手套（★） | 潘多拉之盒 (破损不堪)",
     "name_id": 175854538
   },
+  "★ Sport Gloves | Red Racer (Battle-Scarred)": {
+    "cn_name": "运动手套（★） | Red Racer (战痕累累)",
+    "en_name": "★ Sport Gloves | Red Racer (Battle-Scarred)",
+    "name_id": 176612357
+  },
   "★ Sport Gloves | Red Racer (Field-Tested)": {
     "cn_name": "运动手套（★） | Red Racer (久经沙场)",
     "en_name": "★ Sport Gloves | Red Racer (Field-Tested)",
     "name_id": 176611883
+  },
+  "★ Sport Gloves | Red Racer (Minimal Wear)": {
+    "cn_name": "运动手套（★） | Red Racer (略有磨损)",
+    "en_name": "★ Sport Gloves | Red Racer (Minimal Wear)",
+    "name_id": 176612374
   },
   "★ Sport Gloves | Red Racer (Well-Worn)": {
     "cn_name": "运动手套（★） | Red Racer (破损不堪)",
@@ -159719,10 +161289,20 @@
     "cn_name": "运动手套（★） | 超导体 (破损不堪)",
     "name_id": 175854518
   },
+  "★ Sport Gloves | Ultra Violent (Battle-Scarred)": {
+    "cn_name": "运动手套（★） | Ultra Violent (战痕累累)",
+    "en_name": "★ Sport Gloves | Ultra Violent (Battle-Scarred)",
+    "name_id": 176612426
+  },
   "★ Sport Gloves | Ultra Violent (Field-Tested)": {
     "cn_name": "运动手套（★） | Ultra Violent (久经沙场)",
     "en_name": "★ Sport Gloves | Ultra Violent (Field-Tested)",
     "name_id": 176611953
+  },
+  "★ Sport Gloves | Ultra Violent (Well-Worn)": {
+    "cn_name": "运动手套（★） | Ultra Violent (破损不堪)",
+    "en_name": "★ Sport Gloves | Ultra Violent (Well-Worn)",
+    "name_id": 176613126
   },
   "★ Sport Gloves | Vice (Battle-Scarred)": {
     "en_name": "★ Sport Gloves | Vice (Battle-Scarred)",
@@ -159749,10 +161329,25 @@
     "cn_name": "运动手套（★） | 迈阿密风云 (破损不堪)",
     "name_id": 175968749
   },
+  "★ Sport Gloves | Violet Beadwork (Battle-Scarred)": {
+    "cn_name": "运动手套（★） | Violet Beadwork (战痕累累)",
+    "en_name": "★ Sport Gloves | Violet Beadwork (Battle-Scarred)",
+    "name_id": 176612387
+  },
   "★ Sport Gloves | Violet Beadwork (Field-Tested)": {
     "cn_name": "运动手套（★） | Violet Beadwork (久经沙场)",
     "en_name": "★ Sport Gloves | Violet Beadwork (Field-Tested)",
     "name_id": 176612003
+  },
+  "★ Sport Gloves | Violet Beadwork (Minimal Wear)": {
+    "cn_name": "运动手套（★） | Violet Beadwork (略有磨损)",
+    "en_name": "★ Sport Gloves | Violet Beadwork (Minimal Wear)",
+    "name_id": 176613960
+  },
+  "★ Sport Gloves | Violet Beadwork (Well-Worn)": {
+    "cn_name": "运动手套（★） | Violet Beadwork (破损不堪)",
+    "en_name": "★ Sport Gloves | Violet Beadwork (Well-Worn)",
+    "name_id": 176612364
   },
   "★ StatTrak™ Bayonet": {
     "en_name": "★ StatTrak™ Bayonet",

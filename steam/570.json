@@ -34809,6 +34809,16 @@
     "cn_name": "亲笔签名 快速消灭机铳",
     "name_id": 3614687
   },
+  "Autographed Intergalactic Orbliterator - Arms": {
+    "cn_name": "亲笔签名 星际湮灭者 - 手臂",
+    "en_name": "Autographed Intergalactic Orbliterator - Arms",
+    "name_id": 176612905
+  },
+  "Autographed Intergalactic Orbliterator - Belt": {
+    "cn_name": "亲笔签名 星际湮灭者 - 腰带",
+    "en_name": "Autographed Intergalactic Orbliterator - Belt",
+    "name_id": 176612940
+  },
   "Autographed Intergalactic Orbliterator - Head": {
     "cn_name": "亲笔签名 星际湮灭者 - 头部",
     "en_name": "Autographed Intergalactic Orbliterator - Head",
@@ -44353,6 +44363,11 @@
     "cn_name": "亲笔签名 寂静之灵 - 头巾",
     "en_name": "Autographed Silent Wight - Hood",
     "name_id": 176427790
+  },
+  "Autographed Silent Wight - Scarf": {
+    "cn_name": "亲笔签名 寂静之灵 - 围巾",
+    "en_name": "Autographed Silent Wight - Scarf",
+    "name_id": 176468531
   },
   "Autographed Silver Squall - Armor": {
     "en_name": "Autographed Silver Squall - Armor",
@@ -70568,6 +70583,11 @@
     "en_name": "Corrupted Egg of the Vermillion Crucible",
     "cn_name": "冥灵 赤色红炉巨蛋",
     "name_id": 175938053
+  },
+  "Corrupted Eidelon of Twisted Maelstrom": {
+    "cn_name": "冥灵 乾坤扭转之灵",
+    "en_name": "Corrupted Eidelon of Twisted Maelstrom",
+    "name_id": 175999458
   },
   "Corrupted Eki Bukaw Wand - Off-Hand": {
     "en_name": "Corrupted Eki Bukaw Wand - Off-Hand",
@@ -126784,6 +126804,11 @@
     "cn_name": "金色 Caosfenix解说贴纸 - 2023年TI",
     "name_id": 176397323
   },
+  "Gold Caosfenix Talent Sticker - TI 2025": {
+    "cn_name": "金色 Caosfenix解说贴纸 - 2025年TI",
+    "en_name": "Gold Caosfenix Talent Sticker - TI 2025",
+    "name_id": 176544696
+  },
   "Gold Cap Talent Sticker - TI 2022": {
     "en_name": "Gold Cap Talent Sticker - TI 2022",
     "cn_name": "金色 Cap解说贴纸 - 2022年TI",
@@ -146819,6 +146844,11 @@
     "en_name": "Holo KheZu Talent Sticker - TI 2024",
     "name_id": 176450450
   },
+  "Holo KheZu Talent Sticker - TI 2025": {
+    "cn_name": "全息 KheZu解说贴纸 - 2025年TI",
+    "en_name": "Holo KheZu Talent Sticker - TI 2025",
+    "name_id": 176544735
+  },
   "Holo Khezu Talent Sticker - TI 2022": {
     "en_name": "Holo Khezu Talent Sticker - TI 2022",
     "cn_name": "全息 Khezu解说贴纸 - 2022年TI",
@@ -149513,6 +149543,11 @@
     "cn_name": "全息 syndereN解说贴纸 - 2024年TI",
     "en_name": "Holo syndereN Talent Sticker - TI 2024",
     "name_id": 176450414
+  },
+  "Holo syndereN Talent Sticker - TI 2025": {
+    "cn_name": "全息 syndereN解说贴纸 - 2025年TI",
+    "en_name": "Holo syndereN Talent Sticker - TI 2025",
+    "name_id": 176544623
   },
   "Holo tOfu Player Sticker - TI 2022": {
     "en_name": "Holo tOfu Player Sticker - TI 2022",
@@ -171048,6 +171083,11 @@
     "cn_name": "铭刻 星际湮灭者 - 手臂",
     "en_name": "Inscribed Intergalactic Orbliterator - Arms",
     "name_id": 176611189
+  },
+  "Inscribed Intergalactic Orbliterator - Belt": {
+    "cn_name": "铭刻 星际湮灭者 - 腰带",
+    "en_name": "Inscribed Intergalactic Orbliterator - Belt",
+    "name_id": 176612888
   },
   "Inscribed Intergalactic Orbliterator - Head": {
     "cn_name": "铭刻 星际湮灭者 - 头部",
@@ -218698,6 +218738,11 @@
     "cn_name": "2024年国际邀请赛界面皮肤",
     "en_name": "The International 2024 HUD",
     "name_id": 176585200
+  },
+  "The International 2025 Collector's Aegis Bundle": {
+    "cn_name": "2025年国际邀请赛典藏版神盾捆绑包",
+    "en_name": "The International 2025 Collector's Aegis Bundle",
+    "name_id": 176614001
   },
   "The International Compendium 2014": {
     "en_name": "The International Compendium 2014",
